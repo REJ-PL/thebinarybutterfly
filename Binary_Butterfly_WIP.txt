@@ -837,11 +837,11 @@ Gurgling – Garro clawed himself upright, blinking; a near-inaudible hiss sound
 
 “You clear?” Mellie hollered into the skylight from above, her question hanging in the air.
 
-“Fuck me,” Gerhardt muttered, his voice layered with poorly hidden disdain. “Fucking Davie, fucking amateurs,” before raising his voice again; “Yeah, we're fucking clear.”
+“Fuck me,” Gerhardt muttered, his voice layered with poorly hidden disdain. “Fucking Davie, fucking amateurs,” before raising his voice again: “Yeah, we're fucking clear.”
 
 “That wasn’t my fault,” Lynx defensively announced to the mess of noise everyone was making.
 
-Garro—with peculiar indifference to everything that had passed and that was now happening—picked up the bottle he’d dropped, raising it to show; “Look what I found,” he announced, casually strolling back to the lounge and delivering a dismissive kick to the smouldering remains of the droid.
+Garro—with peculiar indifference to everything that had passed and that was now happening—picked up the bottle he’d dropped, raising it to show. “Look what I found,” he announced, casually strolling back to the lounge and delivering a dismissive kick to the smouldering remains of the droid.
 
 Turning to face Lynx fully, Gerhardt spat cold interrogation at him: “There’s no more of this shit, right?... Tell me this place is tight now. Please, for the love of sweet mercy, tell me you are actually in control of this.”
 
@@ -863,7 +863,7 @@ As the door swung open, Gerhardt reflexively sucked in a sharp breath, barely co
 
 Before him lies a compact room, swamped and adorned in every inch by complex interlinked computer hardware, a stark contrast to the apartment's sparse luxury. It's a tightly packed hub of technology: banks of computer boxes stand like miniature towers in their own cityscape, lining the space with surfaces flickering rhythmically with lights. A persistent, quiet hum of machinery fills the air, resonating with the life of active circuits and cooling systems.
 
-The centre of the room is taken by an intricate yet obscurely void console, a small complement of dials and control switches, patiently ticking with relentless activity. Above him, and weaving across the floor, a network of wires and tubes crisscross intricately, connecting each device in this confined technological maze.
+The centre of the room is taken by an intricate yet obscurely control-void console, a small complement of dials and control switches, patiently ticking with relentless activity. Above him, and weaving across the floor, a network of wires and tubes crisscross intricately, connecting each device in this confined technological maze.
 
 In this self-contained world, so detached from the larger context of the apartment, the augmented vision of his cybernetic implant dots with warnings of errors reporting unknown technology.
 
@@ -1003,7 +1003,7 @@ He went about his business with chilling detachment, never pausing to consider t
 
 The job he undertook with Davie had, by way of proffered payment, granted him breathing room. But he knew it was only a matter of time before the debt collectors would return, more insistent than before. They likely wouldn’t accept another placative offering of instalments. And given the current state of his accounts, a full settlement was out of the question. This new arm wasn't just an upgrade; it was a necessity. Fixers would often pay more for wet work – he needed more, and quickly. Failing that, this would be the tool to keep at bay those who would cross his path.
 
-The surgeon spoke in the bastardized dialect common to Little China—generations of Japanese twisted through Chinese and Korean until it became something distinctly Akureyri. Two voices overlapped as his auto-translator lagged by a half-beat:
+The surgeon spoke in the bastardised dialect common to Little China—generations of Japanese twisted through Chinese and Korean until it became something distinctly Akureyri. Two voices overlapped as his auto-translator lagged by a half-beat:
 
 “Neen yoh beekakku, shee-yong nee deh hei Sankey jee-meyan Liyan-jee-ki”
 
@@ -1065,7 +1065,7 @@ Mellie, by force of being someone who appeared to at least comprehend his words,
 
 Mellie understood some of the terminologies, but most of it flew over her head. She had made a conscious decision long ago to avoid any kind of chrome – and certainly never have any brain-embedded computer programs. Her father had been obligated to have such implants for his job, and it was that very technology that had led corporate enforcers straight to him.
 
-Mellie was so engrossed in Lynx's relentless stream of tech-speak that she failed to notice the two Cit-Sec officers ahead, even though their red-hazard-striped black uniforms stood out ominously in the bright light of the languid cloudless day. It was already too late as the trio crossed the intersection.
+Mellie was so engrossed in Lynx's relentless stream of tech-speak that she failed to notice the two Cit-Sec officers ahead, even though their red-hazard-striped black uniforms stood out ominously in the bright light of the languid, cloudless day. It was already too late as the trio crossed the intersection.
 
 “Hey, you, big guy...” an officer called out, singling out Garro from the crowd.
 
@@ -1093,7 +1093,7 @@ Time collapsed – a pointless endeavour. Everything was now happening at the sa
 
 Garro watched in astonishment as the unfolding mechanical transformation of the Cit-Sec vehicle stopped looking like the back of a wagon – and started quickly looking a lot more like a response droid; heavy armour plates clicking and shifting into position to surround its skeletal design in boxes of heavy shielding.
 
-Lynx wanted to yell, instead exhaling a winded grunt as a gloved hand hauled him by his jacket collar, in swift motion displacing him entirely. His voice left his mouth as a heavy vehicle door slammed shut behind him; he and his pack landed as a tangled bundle, slumped in the back of the Cit-Sec wagon.
+Lynx wanted to yell, instead exhaling a winded grunt as a gloved hand ripped him sideways by his jacket collar: swift motion displacing him entirely. His voice left his mouth as a heavy vehicle door slammed shut behind him. He and his pack landed as a tangled bundle, slumped in the back of the Cit-Sec wagon.
 
 The response droid had taken only a matter of seconds to come to rest on its tripod of feet, a hunched head of sensors and lenses protruding forward, and at each of its flanks, it wore a bustle of automatic firepower.
 
@@ -1149,7 +1149,7 @@ Separated by distance, he looked on helplessly, focusing on the vehicle Mellie w
 
 Controlled bursts. Mellie couldn’t think of anything else. The change in the droid's firing pattern registers only as a distant observation in Mellie's adrenaline-fueled mind. Her body and mind were slowly starting to become recognisably her own again, but the immediacy of the threat, now only yards away, was too great still for her to be distracted.
 
-Unaware of the droid's design limitations—its small ammo bins—and its shift from destruction to suppression, she sees an opportunity. This perceived reprieve, a moment's breath, is her chance to return fire. In this moment it’s the only thing she can do to make a difference, her only chance to survive.
+Unaware of the droid's design limitations—its small ammo bins—and its shift from destruction to suppression, she sees an opportunity. This perceived reprieve, a moment's breath, is her chance to return fire. That unseen limitation is the only thing she can leverage to make a difference, her only chance to survive.
 
 As the ringing report of a higher-calibre weapon's blast cuts through her focus, a vicious and timely reminder crashes in: the droid isn't her only adversary. In that instant, she disgorges her penultimate magazine, directing a rip of bullets at the fearsome tripod of destruction.
 
@@ -1333,7 +1333,7 @@ Mellie quickly scanned Lynx and Garro for reassurance; both offered subdued shru
 
 Davie maintained his smirk as he watched the scene unfold, then gestured for them to follow him.
 
-As they followed Davie through the dimly lit corridor, Mellie's mind churned with suspicion and curiosity: What’s the job, that this guy called us? The sounds of staff filling glasses and the low rumble of speakers waiting for patrons faded behind them, leaving an air of quiet anticipation to envelop the group.
+As they followed Davie through the dimly lit corridor, Mellie's mind churned with suspicion and curiosity: What’s the job that this guy called us? The sounds of staff filling glasses and the low rumble of speakers waiting for patrons faded behind them, leaving an air of quiet anticipation to envelop the group.
 
 Upon entering Davie's office, they settled into worn leather chairs clustered around the ostentatious but weathered central table.
 
@@ -1361,7 +1361,7 @@ Mellie's anger momentarily faltered in the face of Gerhardt's arrival, replaced 
 
 Lynx shared a quick, upward nod with Gerhardt, a fleeting but polite acknowledgement of the other's presence. Garro's tense posture relaxed as he saw that the moment had changed.
 
-Seemingly unfazed by Gerhardt's entrance, Davie leaned back in his chair. “Well, well, look who decided to join the party,” he mused. A sardonic smirk playing on his lips; the casing of his cybernetic eye caught the confused spectrum of shifting lights of the club as they were being brought to life outside of the windows of the office.
+Seemingly unfazed by Gerhardt's entrance, Davie leaned back in his chair. “Well, well, look who decided to join the party,” he mused. A sardonic smirk played on his lips; the casing of his cybernetic eye caught the confused spectrum of shifting lights of the club as they were being brought to life outside of the windows of the office.
 
 He scanned Gerhardt with a nervous caution. The artificial eye, usually emotionless and calculating, paradoxically echoed the human side of his irritation at being publicly challenged in his own club of all places. The squinted smile betrayed a hint of admiration for Gerhardt's undeniable presence.
 
@@ -1373,7 +1373,7 @@ Lynx’s entire form wilted as he blinked against that announcement. Garro huffe
 
 As Davie spoke, Mellie’s presence grew colder, her silence a hard contrast to the heated exchanges around her. She leaned back, the slow, deliberate movement drawing a quiet creak from the worn leather of her chair. Her arms folded with a calculated poise, as if physically barricading her thoughts. Her lips pressed into a thin line that held back an arsenal of unspoken retorts. The light caught a fleeting glint in her eyes, betraying a storm beneath her calm exterior. In that controlled stillness, her gaze locked on Davie; her dissent spoke volumes.
 
-“Ten Kay?” – Lynx questioned, his head and eyes jerkily rotating and checking for the reality that everyone here had heard the same thing; “as in, ten thousand dollies?”
+“Ten Kay?” – Lynx questioned, his head and eyes jerkily rotating and checking for the reality that everyone here had heard the same thing, clarifying, “as in, ten thousand dollies?”
 
 Davie wallowed in a brief pause, letting the room's undercurrents swirl around him. He drew a deep nasal breath, the moment's gravity centring on him. With a casual elegance, he brought the unlit cigar to his lips, lighting it with a deft flick of a match. The brief flare of the flame momentarily highlighted the smug assurance on his face. “Yes. Ten thousand,” he stated as the cigar began to smoulder, its ember glowing in the dim light. “If you had let me finish, I—” 
 
@@ -1456,7 +1456,7 @@ Looking up, his gaze fixed on the telecoms tower attached to a building not five
 
 Instinctively summoning the internal display of his cybernetic eye, he saw the current time blink into existence as an overlay on his field of vision, realising he'd need to start climbing if he wanted to be in position before the others arrived. He hastened his step.
 
-He ran through the simplistic plan in his mind: he was going to provide overwatch, a sure thing that he had expressed would be no problem; Garro was, of course, to be the point man for the operation; Mellie was close support and Lynx, the backup, along with whatever tech nonsense he had to get done.
+He ran through the simplistic plan in his mind: he was going to provide overwatch, a sure thing that he had expressed would be no problem; Garro was, of course, to be the point man for the operation; Mellie was close support and Lynx, the backup – along with whatever tech nonsense he had to get done.
 
 They’d had only a matter of hours to prepare their plan, but with some surprising efficacy – between them, they had put together a decent idea of how to run their show. As Mellie had worked through Lynx's information, Gerhardt had begun to see her in a new light. Her practical strategy, simple but effective, quietly impressed him, revealing a side of her that demanded his professional respect.
 
@@ -1464,7 +1464,7 @@ If the job went sideways, Gerhardt would pin down threats from the tower while t
 
 The climb up the tower wasn't easy. Twice, he felt his feet betray him, slipping from the precarious metal loops. At each jolt, his cybernetic arm's powerful grip saved him from a perilous fall into the rusted debris that littered the workyard below.
 
-He pulled on the skills and nerves born of his trade, and completed the short climb to the halfway bridging girders that would serve as his nest. He set his rifle out, securing a cable lanyard to his tactical vest, wrapping it about a nearby angled girder, and finding a position that gave him the best purchase.
+He pulled on the skills and nerves born of his trade and completed the short climb to the halfway bridging girders that would serve as his nest. He set his rifle out, securing a cable lanyard to his tactical vest, wrapping it about a nearby angled girder, and finding a position that gave him the best purchase.
 
 For the final touch, he drew the smart-cable connector from his wrist and plugged it into his rifle. As he did so, he willingly surrendered control from his human eye to the augmented vision of his cybernetic one and the now connected digital scope of the rifle; his vision became tattooed with information – ranges, inclination, temperature, wind. He could feel the rifle in his mind. He was ready.
 
@@ -1632,7 +1632,7 @@ He flipped the visor away from his eyes. “It’s just like I said before… De
 
 Garro had stopped a few meters ahead, standing watch at the next junction. He turned back toward them, clearly impatient. “This is bullshit,” he interjected, his voice cutting through their whispers.
 
-Three pairs of eyes took a moment to address the obvious commentary. Gerhardt waved a hand toward an awaiting lit corridor; “Do we keep going, or are we about to pull out of this mess?”
+Three pairs of eyes took a moment to address the obvious commentary. Gerhardt waved a hand toward an awaiting lit corridor. “Do we keep going, or are we about to pull out of this mess?”
 
 The quiet electric hum of the lights overhead dropped into the silence behind his question.
 
@@ -1696,7 +1696,7 @@ Taking the cue, Gerhardt stepped forward and, choosing to attempt subterfuge at 
 
 《Gerhardt Kinsley. Three outstanding warrants. Please wait.》
 
-He snapped back—”Oh, we have to go…” It wasn’t a note of fear or anger but a factual statement. He began a lunging run toward the door from which they had come.
+He snapped back— “Oh, we have to go…” It wasn’t a note of fear or anger but a factual statement. He began a lunging run toward the door from which they had come.
 
 The car sounded impatient with its following interruptive inquiry, 《Gerhardt Kinsley, are these warrants currently a threat to your well-being or an impediment to your immediate tasks?》
 
@@ -2460,7 +2460,7 @@ Lynx nodded eagerly. “Yeah, I've got a general area pinpointed. I can’t do a
 
 Flanked by Mellie and Garro, Lynx walked along the wide pavements of South-Central. The area was a regular haunt for those seeking shopping or more refined social spaces, close enough to the Skrim to attract a diverse crowd but far enough to present itself as more sophisticated.
 
-“I had to trace the message nodes,” Lynx continued, a steady torrent of mostly extraneous information; “I spent the afternoon in a café in Central. You wouldn't believe how many badges are around there. Luckily, I wasn't spotted. After hacking into the node, I found some Corpo dockets. Her name doesn't show up anywhere else.”
+“I had to trace the message nodes,” Lynx continued, a steady torrent of mostly extraneous information: “I spent the afternoon in a café in Central. You wouldn't believe how many badges are around there. Luckily, I wasn't spotted. After hacking into the node, I found some Corpo dockets. Her name doesn't show up anywhere else.”
 
 Garro sipped a nutrient shake, giving the impression of paying attention even though most of the details slipped past him.
 
@@ -3189,7 +3189,7 @@ A physical nudge from Gerhardt broke her focus. She turned to see his normally c
 
 [011001] THE TICKING BOMB OF TIME.
 
-Sweating and huddled together, they rested. Gerhardt had led the way, skilfully avoiding cameras and doubling back to find alternate routes. Burdened by Garro's weight on her shoulder, Mellie supported his uneven sprint. Garro felt nothing; the implant’s failsafe drugs had been quietly hissing at their persistent injection, yet his legs’ muscles had seized, and no chemical could override the physical trauma he'd endured. The gun he carried for Mellie had seared his skin, branding his neck and shoulder, though he’d not noticed. Along their escape, Gerhardt had tried to reach Lynx to help get directions, but to no avail.
+Sweating and huddled together, they rested. Gerhardt had led the way, skilfully avoiding cameras and doubling back to find alternate routes. Burdened by Garro's weight on her shoulder, Mellie supported his uneven sprint. Garro felt nothing; the implant’s failsafe drugs had been quietly hissing at their persistent injection, yet the muscles in his leg had seized, and no chemical could override the physical trauma he'd endured. The gun he carried for Mellie had seared his skin, branding his neck and shoulder, though he’d not noticed. Along their escape, Gerhardt had tried to reach Lynx to help get directions, but to no avail.
 
 The edge of the drydocks was a wasteland; they’d dragged a bloodied trail through a hobo camp; gaunt, dirty, pleading faces with hollow eyes followed their escape. No one cared enough, or dared enough, to get in their way.
 
@@ -3299,7 +3299,7 @@ Gerhardt paced along the harsh white corridor, tracing his synthetic fingers alo
 
 “Those ‘borgers. That wasn’t chance, right?” She relented to the silence and the paced footsteps that Gerhardt crammed into the space about them.
 
-She looked up; “They were at that comms tower, the one Lynx had sent us to look for. That’s not just random chance—”
+She looked up. “They were at that comms tower, the one Lynx had sent us to look for. That’s not just random chance—”
 
 Gerhardt pulled at the unshaven skin of his jaw. “No. Not chance.”
 
@@ -3323,7 +3323,7 @@ Mellie’s face crunched into frustration. “I dunno, man. Fuck – I wasn’t 
 
 Gerhardt’s pacing stopped. He was frozen in recollection, trapped by the words: ‘Diamond shape’. He repeated back coldly: “Like playing cards.”
 
-Mellie stood up to meet him physically and extended her arms outward in an exaggerated shrug. Her voice was clipped and edged with annoyance; “Yes, a diamond shape, like…”
+Mellie stood up to meet him physically and extended her arms outward in an exaggerated shrug. Her voice was clipped and edged with annoyance: “Yes, a diamond shape, like…”
 
 Gerhardt interrupted her: “You’re sure?!”
 
@@ -3359,7 +3359,7 @@ Mellie looked blankly at the smiling marketing collage as he held out the digita
 
 Her train of thought was lost, and the previous question vanished, now mutated– “Privacy?” the new question popped into existence.
 
-The man’s cheeks pulled in a practised toothy grin. “You had instructed that city security forces were not to be alerted of your companion’s presence here, and we take client privacy very seriously.”
+The man’s cheeks pulled in a practised, toothy grin. “You had instructed that city security forces were not to be alerted of your companion’s presence here, and we take client privacy very seriously.”
 
 Mellie shared a sideways glance with Gerhardt and took the pad. It displayed a digital set of paperwork with some medical details written out and a section awaiting a signature.
 
@@ -3385,21 +3385,23 @@ Mellie frowned; even without giving a name, she presumed they already knew too m
 
 Mellie noted the doctor’s sleek and well-crafted metallic fingers—implants—as they clicked on the surface of the digital pad as she scrolled through details. “We’ve had to apply a considerable amount of sedative and neuro-stasis-analgesics. I’m afraid that whatever your friend’s endo-frame and skeletal enhancements have done creates untenable neural feedback.”
 
-Doctor Bennett paused, returned the pad to the table, and took a deep breath. “I’ll be very clear. We do uphold total privacy of patient affairs, but the grafts in your friend have been flagged up as a potential cause for concern. Protocol in such cases involving Asukaga hardware in use by non-military personnel.”
+Doctor Bennett paused, returned the pad to the table, and took a deep breath. “I’ll be very clear. We do uphold total privacy of patient affairs, but the grafts in your friend have been flagged up as a potential cause for concern. Protocol applies,” she said after a breath. “Asukaga hardware in non-military use.”
 
 Gerhardt’s stance hardened — not enough to announce itself, but enough to change the air. Mellie caught it and lifted a hand to still him. She couldn’t name his moods, but she had learned to listen to the space he occupied.
 
-Mellie’s eyes turned green steel, with a long blink and words that each were a drop of lava landing on ice; “Doc, this entire situation needs the right words out of your mouth next. Is MAF or Cit-Sec here or on their way?”
+Mellie’s eyes turned green steel, with a long blink and words that each were a drop of lava landing on ice. “Doc, this entire situation needs the right words out of your mouth next. Is MAF or Cit-Sec here or on their way?”
 
 The shift in the emotion of the room made the tight bun atop the doctor’s head quiver and weave as she glanced between Mellie, Gerhardt, and the imposing machine gun against the wall.
 
-“No, there are no security forces present or on their way. But the information has, nonetheless, been passed forward. And, we will undoubtedly be audited on the matter in the future,” Doctor Bennett admitted.
+“No – there are no security forces present or on their way,” she said quickly. “But the information has been passed forward. We’ll be audited on it. Eventually.”
 
 Gerhardt sprang, his movement fluid, precise, silent, and complete – from statue beside the door, to leaning on the desk; pistol extended so that it almost touched the doctor’s cheek, his long coat falling to rest behind him. Mellie jolted at the speed. The doctor stifled a shriek.
 
 When he spoke, his voice was unwavering, his arm and gun perfectly still. “Security footage? How can we make it go away? And the audit – how do we make it ‘routine’?” He emphasised the word 'routine' in a way that left no doubt about his intentions.
 
-The doctor nodded frantically, her eyes wide with the moment's immediacy. “I … I can’t do anything about any recordings…” she stammered. The cold gun barrel pushed into her cheek.
+The doctor nodded frantically, her eyes wide with the moment's immediacy. “I … I can’t do anything about any recordings…” she stammered.
+
+The cold gun barrel pushed into her cheek.
 
 “Tell me who can.” It was a quiet, almost whisper, but Gerhardt’s words brought the room to a standstill.
 
@@ -3407,7 +3409,7 @@ Mellie, blustering to catch up to the events in her mind, tumbled the seat backw
 
 “Tell me, Mel, you trust this bitch? Or are we going to walk out into a tac-squad?” He didn’t let his focus shift at all.
 
-Slowly raising one metallic finger, the doctor continued: “Th… the left of the corridor, downstairs. Our… Our maintenance will have any recordings.” Her temples sparkled the fear of with sweat under the soft, off-yellow lights.
+Slowly raising one metallic finger, the doctor continued: “Th… the left of the corridor, downstairs. Our… Our maintenance will have any recordings.” Her temples sparkled the fear with sweat under the soft, off-yellow lights.
 
 Mellie stepped into the doctor’s view. “Where is…” she paused for just a moment to phrase her words: “Our friend, can he walk?”
 
@@ -3451,7 +3453,7 @@ Mellie, however, had a different destination in mind. She had turned to reassure
 
 Gerhardt raised an eyebrow, his gaze flicking to the quiet street beyond them. “Get there how? You got some wheels? It's at least fifteen minutes on foot to Tellman, twenty with him in that state.” He gestured with a sideways nod toward Garro, who still rested against the building as though each supported the other.
 
-Frustration etched Mellie's features, and she scrunched her face in annoyance. She her anger channelled her eyes to fine pricks of determination. “And if we don't get him some meds,” she declared. “This will all play out again. I'm pretty sure we can't come here again.” She cast a meaningful glance at the emergency exit door behind her and waved an arm in the direction of the imposing building.
+Frustration etched Mellie's features, and she scrunched her face in annoyance. Her anger channelled her eyes to fine pricks of determination. “And if we don't get him some meds,” she declared. “This will all play out again. I'm pretty sure we can't come here again.” She cast a meaningful glance at the emergency exit door behind her and waved an arm in the direction of the imposing building.
 
 Gerhardt heaved a weary sigh, his earlier resistance giving way to practicality. “Fine, Chanix, it is,” he conceded. “But it's right on Central, and the longer we're out here, the more I feel like some black wagon is going to fall from the fucking sky, and we're all getting slotted…”
 
@@ -3578,7 +3580,7 @@ Gerhardt leaned with both hands on the countertop. “So, if you don’t already
 
 Mellie snorted. “We were doing fine before Davie put you on us.” She crossed her arms but, in doing so, felt the sad couch creak uneasily beneath her as she shifted her weight.
 
-Lynx stood up, physically breaking into their conversation as a wall. “I don’t think it was you they were after,” he said slowly, worry pulling at his words. “I just checked. You remember that info from Zecsa’s pad?” He tapped at his bracer. “I think it was runners out of el-see that had tracked her, look.” He extended his arm, offering a view of the intricate digital map that was traced on its screen.
+Lynx stood up, physically breaking into their conversation as a wall. “I don’t think it was you they were after,” he said slowly, worry pulling at his words. “I just checked. You remember that info from Zecsa’s pad?” He tapped at his bracer. “I think it was runners out of El-see that had tracked her, look.” He extended his arm, offering a view of the intricate digital map that was traced on its screen.
 
 “I talked with her. She said not to track her but—”
 
@@ -3590,7 +3592,7 @@ Mellie frowned, releasing her crossed arms. “You talked with who?”
 
 “Place was wrecked. Not my style, but certainly looked like someone had been snuffed.” His report was given with a complete indifference to the morbid concepts.
 
-Lynx began talking over both of them; “Yeah, well, she told me not to track her. I did anyway, and this map is all I could put together. Look, there—” he jabbed a finger at a line glowing on the bracer’s display. “That’s right in the middle of el-see. And given these pings, it makes sense.” As he spoke, he moved his finger among glowing markers on the map, the district boundary of Little China caught in his invisible finger drawing.
+Lynx began talking over both of them, “Yeah, well, she told me not to track her. I did anyway, and this map is all I could put together. Look, there—” he jabbed a finger at a line glowing on the bracer’s display. “That’s right in the middle of el-see. And given these pings, it makes sense.” As he spoke, he moved his finger among glowing markers on the map, the district boundary of Little China caught in his invisible finger drawing.
 
 Gerhardt walked around the counter to stand adjacent to Lynx and look at the indicated detail. “So – Buzokuh, they’re after her?”
 
@@ -3829,7 +3831,7 @@ Davie leaned in toward them. Veins, throbbing like the bass of the beleaguered c
 
 As Davies' voice grew, Lynx’s attempt to coerce the conversation was lost. “We never meant for any of this to happen.”
 
-Davie spun, returning to his pacing and erupted: “Meant? MEANT? You think I built all this,” he gestured around the room. “based on good intentions? Do you have any idea what you've done to me?”
+Davie spun, returning to his pacing and erupted: “Meant? MEANT? You think I built all this,” —he gestured around the room— “based on good intentions? Do you have any idea what you've done to me?”
 
 Gerhardt went to stand, but the motion of one of the desk’s flanking guards stapled him into his seat again. Raising his voice to match Davies but with a restrained, clinical detachment, he pushed back: “We're not your enemy, Davie. Getting heated isn't going to solve anything.”
 
@@ -4098,7 +4100,7 @@ In words she could not understand, a vendor excitedly hollered at her as she pas
 
 “Normal? I guess. It should thin out as we hit Rin-Yukai. We could stop and grab some food if you’re hungry?”
 
-She hurried, pushing past a dense crowd—all trying to cross the street at once—”Is it far?”
+She hurried, pushing past a dense crowd—all trying to cross the street at once. “Is it far?”
 
 “Another few blocks ahead.”
 
@@ -4112,7 +4114,7 @@ As they advanced, the crowds began to thin, revealing the road Gerhardt had ment
 
 It was a world Mellie was not familiar with. Her father had taught her that gang warfare had long been a part of the city and that the streets were never safe, but the machinations of a living, breathing, and very real crime syndicate were a field of knowledge she had no real experience of.
 
-Gerhardt came to a halt and turned to her. “Listen, I know these people, and they know me. I’m going to go in alone. If they see you with that—” His voice faded at the indication, his cybernetic eye buzzing quietly as it refocused; “Well, they probably already know we’re coming – and I would also assume they already know you are carrying. It will be easier if I go in to talk alone.”
+Gerhardt came to a halt and turned to her. “Listen, I know these people, and they know me. I’m going to go in alone. If they see you with that—” His voice faded at the indication, his cybernetic eye buzzing quietly as it refocused. “Well, they probably already know we’re coming – and I would also assume they already know you are carrying. It will be easier if I go in to talk alone.”
 
 Mellie frowned at the quiet insistence of Gerhardt’s voice. “The hell with that, I came here to watch your ass.”
 
@@ -4462,7 +4464,7 @@ Briefly looking up, Garro blinked in the rising daylight; the morning was a welc
 
 Garro sat hunched over; he’d not slept much, and—waiting for Mellie—he let his mind flit about. I could just take some food. He sniffed the air. He didn’t know what time it was, but it must surely have been close to when she had said to meet.
 
-The small sunken plaza was ringed by fashion outlets and a store that might just as easily sell firearms as soft furnishings, as the front was barred, and the windows were painted white. He looked about, hunting for the telltale sign of bright hair.
+The small sunken plaza was ringed by fashion outlets, and a store that might just as easily sell firearms as soft furnishings, as the front was barred, and the windows were painted white. He looked about, hunting for the telltale sign of bright hair.
 
 “You waiting for someone?” Lynx’s dry sarcasm was wasted as he approached from behind.
 
@@ -4476,7 +4478,7 @@ As she approached, Lynx fidgeted and glanced about; he had been waiting and hold
 
 Mellie blinked and drew a sideways grimace of confusion.
 
-Garro looked between them, chewing on the inside of his cheek. “Singularity what?” he asked, the word heavy with suspicion more than curiosity.
+Garro looked between them, chewing on the inside of his cheek. “Singularity, what?” he asked, the word heavy with suspicion more than curiosity.
 
 “It’s an AI, not Zecsa, that’s been talking with me.” He held forward his bracer. “Look…” The screen displayed a morgue report for one Zoe Lansor.
 
@@ -4627,7 +4629,7 @@ The following riots were much worse.
 
 Within only a year, street wars for survival had become the norm. A populace without control, without sustenance, deprived of the comforts that once made life in these technological hives of humanity bearable, the world was unravelling: people's implants, once a marvel of human ingenuity, began to fail, rendering billions helpless or dead – especially those like Garro, who relied on cybernetic skeletal implants for their very survival.
 
-The once-protective droids had now turned against their masters, human security officers were obliterated by the very army of metal they had once commanded. In this new world, only the well-armed, well-trained, and most tenacious stood a chance at survival.
+The once-protective droids had now turned against their masters: human security officers were obliterated by the very army of metal they had once commanded. In this new world, only the well-armed, well-trained, and most tenacious stood a chance at survival.
 
 The cities around the globe each became crumbling hellscapes. No response could be meted against the cascading failure of all of humanity’s progression.
 
@@ -4649,7 +4651,7 @@ Slowly, with pained fingers, he types.
 
 His words are replaced in an instant,
 
-[This is all I can give to you.] the phrase repeated.
+[This is all I can give to you.] The phrase repeated.
 
 The cold that sunk into his skin was nothing beside the colder realisation that welled up from his gut: the AI had once again chosen to talk with him directly.
 
