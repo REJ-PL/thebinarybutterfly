@@ -24,13 +24,13 @@ This book, and my thoughts and love, are dedicated to those who have stood with 
 
 To my wife, and very best friend, Amber.
 
-And to my mum, rest in peace.
+And to my mum; rest in peace.
 
-I would not have created these words if it weren’t also for the friends, near and far, who helped inspire and create this story and inspire me to do any of this.
+I would not have created these words if it weren’t also for the friends, near and far, who helped inspire and create this story, and inspired me to do any of this.
 
 Amelia, Frosty, James, Mim.
 
-And to those who came before me, creating the worlds of cyberpunk and the dystopian fantasy warnings of humanity's potential failings.
+And to those who came before me, creating the worlds of cyberpunk and the dystopian fantasy warnings of humanity's potential failings...
 Let us hope that these stories are always fantasy. 
 Contents
 Dedication	3
@@ -71,7 +71,7 @@ Foreword
 TBD 
 Acknowledgements
 
-I want to express my sincere thanks to you, the reader. I know this may not be the most incredible story ever told, but it's a story I wrote with all my heart and passion—an idea born on the back of the whims of a few people playing a role-playing game.
+I want to express my sincere thanks to you, the reader. I know this may not be the most incredible story ever told, but it's a story I wrote with all my heart and passion—an idea borne on the back of the whims of a few people playing a role-playing game.
 
 We're all on this spinning rock for a limited time, and the fact that you've chosen to spend some of that time reading my story among the vast myriad of available stories is an unfathomable grace. Your time and attention are valuable; I'm truly humbled that you've shared them with me.
 
@@ -82,29 +82,29 @@ So, here's to you, the reader, and to all those who contributed to this book. Th
 With gratitude,
 Rich E.J Peall
 Prologue
-1.	In one of many indistinguishable apartments, where mismatched furniture lounged in dim light—an atmosphere of anticipation lingered. It clung to the room as it did to its occupant, a tall woman with vivid bronze hair dressed in a slim tee and cotton slacks, paused in expectation, her gaze fixed on the outside world as the city began to stretch and stir from slumber.
-2.	The intrusive sun waged a fresh assault through the window, forging shimmering patches of brilliance that bathed the woman in an uncomfortable glow and set the dust motes in a lazy ballet. Outside, the city's whispers grew into a morning's murmur; a distant siren lamented the break of peace, the streets below filled with the soft hum of early risers, and the first impatient car horns heralded the dawning day.
-3.	A worn-out couch, its fabric faded and slightly frayed, served as the primary seating area. Opposite it stood an older but serviceable vid-screen, its colours slightly distorted but functional; silently, it displayed a cooking channel. Save for a few old photos, the room lacked decoration. Most featured younger versions of the woman alongside people who were no longer a part of her life, their faces a bittersweet reminder of easier times.
-4.	She leaned against a cluttered desk, her fingers tracing the outlines of old scratches etched into its surface. The room was stifling, the air conditioner's hum a feeble attempt to combat the oppressive July heat, her cramped apartment becoming an insufferable claustrophobic oven.
+1.	In one of many indistinguishable apartments, where mismatched furniture lounged in dim light { comma might be better here, or spacing before and after the emdash} —an atmosphere of anticipation lingered. It clung to the room as it did to its occupant: a tall woman with vivid bronze hair dressed in a slim tee and cotton slacks, paused in expectation, her gaze fixed on the outside world as the city began to stretch and stir from slumber.
+2.	The intrusive sun waged a fresh assault through the window, forging shimmering patches of brilliance that bathed the woman {Same woman? Go for “her” if so} in an uncomfortable glow and set {“caught” might be better, “set” is usually for movement} the dust motes in their lazy ballet. Outside, the city's whispers grew into a morning's murmur; a distant siren lamented the break of peace, the streets below filling with the soft hum of early risers, and the first impatient car horns heralded the dawning day.
+3.	A worn-out couch, its fabric faded and slightly frayed, served as the primary seating area. Opposite it stood an older but serviceable vid-screen, its colours slightly distorted but functional; silently, it displayed a cooking channel. The room lacked decoration, save for a few old photos {swapped for smoothing}. Most featured younger versions of the woman, alongside people who were no longer a part of her life, their faces a bittersweet reminder of easier times.
+4.	She leaned against a cluttered desk, her fingers tracing the outlines {?} of old scratches etched into its surface. The room was stifling, the air conditioner's hum a feeble attempt to combat the oppressive July heat, her cramped apartment becoming an insufferable claustrophobic oven.
 5.	Beads of sweat clung to her brow, glistening impatience—simple human evidence of the inability of technology to bring her comfort.
-6.	The line crackled briefly, the faint buzz of static filling Mellie's consciousness, amplifying the atmosphere of anticipation that hung in the thick morning air. She thumbed at a smudge on the glass as she stared through, looking out toward the glowing city.
+6.	The line crackled briefly, the faint buzz of static filling Mellie's consciousness, amplifying the atmosphere of anticipation hanging {switched tenses to keep “beat” of this sentence} in the thick morning air. She thumbed at a smudge on the glass as she stared through it, looking out toward the glowing city.
 7.	Sweat trickled down her temple as she held her breath, waiting for a response.
-8.	“Sure, okay...” an accented man’s voice grumbled from the speaker, carrying a hint of weariness. “You bring Garro. I can set you up with a decent decker. The job's yours. Meet me at my place tomorrow.”
-9.	The connection severed as suddenly as a guillotine's drop, slicing through the stillness of the apartment. Mellie was left in the echo of the final words, a silence that seemed to reverberate with the weight of the opportunity before her. The phrase ‘the job’s yours’ ricocheted in her mind, igniting a wildfire of adrenaline.
-10.	The promise of a skilled decker and the allure of the job sent waves of excitement coursing through her veins like a cool breeze that brushed aside the stickling heat.
-11.	A rogue smirk crept across her face. “About time we saw some action,” she whispered to the silent witness on her wall, a companion in stillness and time.
+8.	“Sure, okay...” {might be worth specifying which accent – suggest: “hint of weariness under his *descriptive word* *country* accent} an accented man’s voice grumbled from the speaker, carrying a hint of weariness. “You bring Garro. I can set you up with a decent decker. The job's yours. Meet me at my place tomorrow.”
+9.	The connection was severed as suddenly as a guillotine's drop, slicing through the stillness {quiet? Heavy on the alliterative otherwise, and  “stillness” reappears in a moment with greater impact} of the apartment. Mellie was left in the echo of the final words, a silence that seemed to reverberate with the weight of the opportunity before her. The phrase ‘the job’s yours’ ricocheted around her brain, igniting a wildfire of adrenaline.
+10.	The promise of a skilled decker and the allure of the job sent waves of excitement coursing through her veins, like a cool breeze that brushed aside the stickling heat.
+11.	A rogue smirk crept across her face. “About time we saw some action,” she whispered to the silent witness {feels like a camera? Not sure.} on her wall, a companion in stillness and time.
 12.	This would be her chance to make the world better.
  
-13.	On the other side of the Skrim—a towering expanse of glass and steel; an area that appeared as if all that had been discarded from different parts of the city had inadvertently congealed into a distinct district within the urban landscape—a wiry and cunning figure perched in a chair far too grand for his lean frame. A man who, despite his unremarkable stature, exuded an aura of dominance, a predator draped in the guise of a gentleman.
-14.	There, in the shadowed enclave of a room that spoke of wealth but not warmth, he lounged—a sneer playing at his lips, one eye gleamed in the dull light, a showy golden-hued implant, its brilliance out of place on a face that did not deserve it.
-15.	"Dumb bitch," he seethed, the words slithering out with slick contempt. With a dismissive flick, he swiped away the holographic display showcasing snippets of Mellie's personal information. This was a man who traded respect for results, whose currency was control, not camaraderie. Friends were liabilities he could ill afford—a luxury reserved for those less ambitious, less aware of the power in keeping others at arm's length. People like her, though, they could be used.
-16.	Activating his embedded agent, a small implanted device connected to his synthetic eye, the man delved into its vast capabilities. The device, known commonly as an agent, served as his internal computer, telephone, and information repository, connecting him to a network of equally unsavoury individuals.
+13.	On the other side of the Skrim—a towering expanse of glass and steel {took the semi-colon out and an adjustment, as otherwise breaks a broken sentence twice} that almost looked as if all that had been discarded from different parts of the city had inadvertently congealed into a distinct district within the urban landscape—a wiry and cunning figure perched in a chair far too grand for his lean frame. A man who, despite his unremarkable stature, exuded an aura of dominance, a predator draped in the guise of a gentleman.
+14.	There, in the shadowed enclave of a room that spoke of wealth but not warmth, he lounged, a sneer playing at his lips, one eye gleaming in the dull light - a showy, golden-hued implant, its brilliance out of place on a face that did not deserve it.
+15.	"Dumb bitch," he seethed {spat? Is he angry with her, or finds her/this distasteful?}, the words slithering out with slick contempt. With a dismissive flick, he swiped away the holographic display that was showcasing snippets of Mellie's personal information. This was a man who traded respect for results, whose currency was control, not camaraderie. Friends were liabilities he could ill afford—a luxury reserved for those less ambitious, less aware of the power in keeping others at arm's length. People like her, though, they could be used.
+16.	Activating his embedded agent, a small implanted device connected to his synthetic eye, the man delved into its vast capabilities. The device, {known commonly as an agent – thus bit not needed}, served as his internal computer, telephone, and information repository, connecting him to a network of equally unsavoury individuals.
 17.	Scrolling past a dozen shady-looking faces, his gaze settled on one particular profile—a person who seemed to possess the skills he now required. With a mental gesture, he initiated another call, his agent bleeping a confirmation of his command.
-18.	The city's distant ambient electronic interference muddled with the faint electronic beeping resonating from a speaker embedded in the desk before him, an auditory reminder of the twisted web of connections that permeated throughout Akureyri City.
+18.	The city's distant{?} ambient electronic interference muddled with the faint electronic beeping resonating from a speaker embedded in the desk before him, an auditory reminder of the twisted web of connections that permeated throughout Akureyri City.
 19.	As the transmission connected, the screen in Davie's synthetic eye merged reality with video, revealing the face of the person he sought to engage. A rugged visage stared back at him, a face etched with lines of experience and the weariness of a life spent at the edge of society.
 20.	"Gerki!" Davie called out, his voice muffling in the empty room. "Gerki, I need you on a job. It's a simple thing. Just be the backstop for a couple of nobodies. I can't afford to let this one fall through." His words held a sense of urgency, a hint of desperation that he tried to conceal.
 21.	Davie slowly swivelled his chair, allowing himself to gaze at a gaudy, near-pornographic painting adorning the side of his office. His idle observation and the rancid thoughts it sparked in him were mimicry of the decadence and debauchery hiding all that lurks in this city, fuelled by excess and indulgence, riding on the broken backs of desire and hope.
-22.	"Yeah, I swear, this gig is totally off any Corpo radar," Davie continued, his voice oily with excitement and reassurance. "It's practically an invisible job. So, my place, tomorrow, okay?"
+22.	"Yeah, I swear, this gig is totally off any Corpo radar," Davie continued, his voice oily with excitement {temptation?  being that it’s his own AND trying to reel Gerki in} and reassurance. "It's practically an invisible job. So, my place, tomorrow, okay?"
 23.	His fingers danced along the edge of his desk, tracing the intricate patterns carved into the fine woodwork. His gaze fixed on the cigar resting on the desk, his hand gave up flicking at a rough notch in the wood and reached out to claim it. Tapping the cigar against the woodwork, he contemplated the smoke-filled possibilities that lay ahead, all the while half listening to a conversation only he and his unseen partner of communique were privy to.
 24.	In response to his internalized discussion with his digitized companion, he shifted - lifted by a newfound enthusiasm. A thin smile curled from his lips.
 25.	Davie's voice rose once more, the stifled enthusiasm laced with a subtle tone of appeasement. "Great! I'll see you tomorrow then!" His thick accent betrayed his origins, hinting at a past far from where he now sat.
