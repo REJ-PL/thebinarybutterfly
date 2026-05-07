@@ -31,38 +31,38 @@ Amelia, Frosty, James, Troels.
 And to those who came before me, creating the worlds of Cyberpunk and the dystopian fantasy warnings of humanity's potential failings.
 Let us hope that these stories are always fantasy. 
 Contents
-Dedication	3
-Foreword	6
-Acknowledgements	7
-Prologue	8
-Interlude	14
-Chapter One:	The Neon Pulse of Akureyri City	16
-Chapter Two:	An Echo in the Code.	20
+Dedication	2
+Foreword	5
+Acknowledgements	6
+Prologue	7
+Interlude	13
+Chapter One:	The Neon Pulse of Akureyri City	15
+Chapter Two:	An Echo in the Code.	19
 Chapter Three:	Making Links.	34
 Chapter Four:	In the Room with the Unseen.	44
 Chapter Five:	Midnights Cipher.	52
-Chapter Six:	Echoes of Triumph.	69
-Chapter Seven:	The Maw of the City.	79
-Chapter Eight:	What Comes Around.	91
-Chapter Nine:	Never Trust a Corpo.	106
-Chapter Ten:	Alone Together.	118
-Chapter Eleven:	Taken For a Ride.	128
-Chapter Twelve:	Fool Me Once.	134
-Chapter Thirteen:	Better the Devil You Know.	147
-Chapter Fourteen:	Shaking the Sleeper's Throne	151
-Chapter Fifteen:	Breadcrumbs.	165
-Chapter Sixteen:	Where The Wind Blows.	171
-Chapter Seventeen:	Dead End.	184
-Chapter Eighteen:	I Am Zecsa, Hear Me Roar.	199
-Chapter Nineteen:	A Man Who Lives Fully.	211
-Chapter Twenty:	The Ticking Bomb of Time.	228
-Chapter Twenty-one:	This Reality.	234
-Chapter Twenty-two:	In Plain Sight.	250
-Chapter Twenty-three:	Empty Promises.	272
-Chapter Twenty-four:	Akureyri Red Code.	281
-Chapter Twenty-five:	The Untidy Edge.	304
-Interlude	317
-Epilogue	318
+Chapter Six:	Echoes of Triumph.	70
+Chapter Seven:	The Maw of the City.	80
+Chapter Eight:	What Comes Around.	92
+Chapter Nine:	Never Trust a Corpo.	109
+Chapter Ten:	Alone Together.	121
+Chapter Eleven:	Taken For a Ride.	132
+Chapter Twelve:	Fool Me Once.	138
+Chapter Thirteen:	Better the Devil You Know.	151
+Chapter Fourteen:	Shaking the Sleeper's Throne	155
+Chapter Fifteen:	Breadcrumbs.	169
+Chapter Sixteen:	Where The Wind Blows.	175
+Chapter Seventeen:	Dead End.	188
+Chapter Eighteen:	I Am Zecsa, Hear Me Roar.	203
+Chapter Nineteen:	A Man Who Lives Fully.	216
+Chapter Twenty:	The Ticking Bomb of Time.	233
+Chapter Twenty-one:	This Reality.	239
+Chapter Twenty-two:	In Plain Sight.	255
+Chapter Twenty-three:	Empty Promises.	280
+Chapter Twenty-four:	Akureyri Red Code.	289
+Chapter Twenty-five:	The Untidy Edge.	312
+Interlude	325
+Epilogue	326
 
  
 Foreword
@@ -1721,73 +1721,79 @@ One of the suits approached with measured steps, studying them each before halti
 “Gerhardt.”
 “Samuel.”
 The frigid, curt pleasantries prickled in the air.
-Samuel stood solemnly, his head shaking in slow but tight repetition. “I don’t know what you’ve done, but he is not ‘appy.” He flicked a tiny raised-chin nod, “You know what’s going on.” His body language conveyed an understanding between the two that was lost in translation as Mellie, Garro, and Lynx watched.
+Samuel stood solemnly, his head shaking slowly but firmly. “I don’t know what you’ve done, but he is not ‘appy.” He flicked a tiny raised-chin nod, “You know what’s going on.” His body language conveyed an understanding between the two that was lost in translation as Mellie, Garro, and Lynx watched.
 Gerhardt opened his coat with a ritualistic slowness, allowing Samuel to disarm him.
 In the ceremony, Gerhart panned his gaze about the room, studying the faces, noticing a man further back who looked strikingly like himself—similar implanted eye, same cold stare. He wondered: Are we so interchangeable? Do we really all look like that?
 At a signal from Samuel, a duffle was kicked across the floor. He dropped in Gerhardt’s weapon and began to pat him down, pulling a knife from a sheath and tossing it to the bag.
 With his search completed, he turned to Mellie. “You got rigs on you?” She flicked her eyes at Gerhardt, who offered a slow blink as his response.
 At her paused hesitation, Samuel clarified, “Guns, are you carrying any guns?” with more than a little impatience.
-Mellie went to pull out her machine-pistol, but her hand was stopped as Samuel grabbed her wrist. “No, no. Let’s all be calm here.” He gestured to her coat at which she was reaching, “Here?” 
-She nodded, her nose creased by the vexing indignation of being treated like a child.
-Samuel carefully and slowly peeled her coat aside to see the pistol’s handle poking from its inside pocket. He carefully extracts the weapon with a forefinger and thumb and tosses it into the duffle. “That all?” 
-Having reached her limit, Mellie snarled a condescending smile at him, “Yes, and if you put your hands on me—”
-A waving gloved finger pushed her words aside. Samuel had pulled open his jacket with his other hand, his eyes leading to the handle of his own gun. “We’re all being civil here, all friends.” He replied.
-Samuel turned away from Mellie to address Garro, “You’re gonna stay with us while everyone has a nice chat.” An arm extended to point at a ring of comfortable-looking seats at the side of the lobby.
-Garro caught Mellie's eye. Her expression was locked-down anger and vulnerability. His protective instincts flared. “I don't like this,” he said, his voice low but firm. “You can't just go throw hands at my chooms.” His musculature was already rising with adrenaline.
-Samuel's eyes met Garro's, steely but not unkind. “Everyone is here just to have a talk,” he stressed, his hand subtly resting on the grip of his own holstered weapon. “But you'll do as I say.”
-Garro felt the tension of his rising body, his instincts screaming at him to act, to protect. But another look at Gerhardt told him all he needed to know. They were in a precarious position, and aggression would not serve them well here.
-“Fine,” Garro finally conceded, exhaling a reluctant breath. “But you want me to play nice? You gotta play nice too.”
-He moved over to the indicated chairs, his eyes never leaving Samuel until he sat down. As he settled into the plush seat, he felt anything but relaxed. His gaze shifted between his disarmed friends and the men who had disarmed them. He was a guardian relegated to the sidelines, and he didn't like it one bit. But for now, he understood that compliance was the only card they had to play.
-Watching and waiting for the tension to subside, Samuel returned his attention to the line-up, “And you must be the boy wonder. Got your toys on ya?”
+Mellie turned her attention to Samuel, who now stood before her, “and why in the fuck would I give you my gun?” Her eyes thrust her words into the back of Samuel's confused expression. “If Davie wants to talk, let’s do this, but you don’t get my gun.” The finality of her declaration brought the room to a standstill; the air prickled.
+Samuel slowly reached to pat Mellie down, but Garro moved in front of his extending arms. “Don’t lay a fucking finger on her.” The low, angry command stopped Samuel completely, and he altered his hands trajectory, raising to a submissive gesture, stepping backwards from the newly positioned wall.
+With a waving gloved finger, Samuel tried to dismiss the threats. He had pulled open his jacket with his other hand, his eyes leading to the handle of his own gun. “We’re all being civil here, all friends.” He replied.
+ “We were warned about you. Any other time, we would be chooms – but right now, I can’t let you see Davie if you’re not going to play nice.” An arm extended to point at a ring of comfortable-looking seats at the side of the lobby.
+Garro looked down across his shoulder and caught Mellie's eye. Her expression was locked-down anger and defiance. His protective instincts flared. “I don't like this,” he said, his voice low but firm. His musculature was already rising with adrenaline.
+Samuel bolstered his voice to garner their attention as he continued, “Everyone is here just to have a talk,” he stressed, his hand resting on the grip of his holstered weapon. “But Davie has set out some terms.”
+Garro felt the tension of his rising body, his instincts screaming at him to act. Glancing about the lobby, he sees that one of the black-clad people has raised a short shotgun already, and another has a hand inside his jacket. He feels Mellie’s hand tug at his shoulder.
+“Not now, Gee,” the words are soft reassurance uttered as Mellie steps back into view of Samuel, the softness replaced as she snaps her attention. “Davie can go fuck himself, fuck his terms. Tell him this, we know he’s in the shit; and right now we’re the only ones that can save the pathetic man-child. Either we talk, or we walk.”
+Samuel, facing Mellie’s unwavering defiance, made a swift recalibration. His loyalty to Davie only as deep as the credits in his pocket, “Keep it," he conceded with a begrudging nod, recognizing the impasse for what it was—a battle of wills he was not guaranteed to win. "But it stays holstered. Clear?”
+Mellie's response was a terse nod, her features set in a defiant yet satisfied expression; the shadow of a smirk hinted at her unsullied pride. Beside her, Garro's readiness to leap to her defence ebbed away, replaced by a wary acceptance of the compromise.
+Samuel paused in the brief silence, clicking his toungue to dampen the aftermath of the exchange. He deliberately smoothed the front of his suit jacket, a gesture of composure and reclamation of his professional facade. Straightening to his full height, he cast a quick, assessing glance at his fellow security personnel, they had each settled to their positions.
+With this nonverbal exchange serving as a reset, Samuel’s gaze shifted toward Lynx. The slight tightening of his jaw betrayed his effort to maintain control, “And you must be the boy wonder. Got your toys on ya?”
 Lynx’s pack rarely, if ever, left his shoulder. He felt its snug weight now as he stared into Samuel’s uncaring eyes. He let the pack fall to the floor at his feet. Another suited man approached from the side with a handheld scanner, waved it at Lynx, and tapped it against his bracer.
 “That’s not an implant, lose it,” Samuel instructed.
-Lynx felt naked as the bracer’s buckles clicked open, and he put it resting on his pack. The man with the scanner had also proceeded to scan Gerhardt and Mellie but walked away in silence.
-“Great, see. All happy, all good.” Samuel finally said. “You’ll get on the farthest elevator. Hit the button for the penthouse.” Samuel pointed to the back of the lobby, where it branched to several service corridors and proceeded to step to their side, picking the now-laden duffle and Lynx’s pack with him.
+Lynx felt naked as the bracer’s buckles clicked open, and he put it resting on his pack. The man with the scanner then proceeded to scan the others but walked away in silence.
+“Great, see. All happy, all good.” Samuel declared, a hollow attempt at camaraderie as he gestured towards the elevator, the earlier confrontation lingering like a bad smell. “You’ll get on the farthest elevator. Hit the button for the penthouse.” Samuel pointed to the back of the lobby, where it branched to several access corridors. He stepped to their side, picking the now-laden duffle and Lynx’s pack with him.
  
-The elevator chimes resonated like a herald's trumpet as the doors parted, revealing a realm where opulence was the air one breathed. The penthouse unfurled before them—a tableau of indulgent luxury and meticulous design. Every surface gleamed, every furnishing bespoke, each artwork strategically placed to impress upon any beholder the weight of wealth. It was a grotesque shrine to excess, where every gilt edge and plush fabric whispered of avarice.
-Davie was the malformed king of this gaudy domain, ensconced behind his throne—a desk of such sleek modernity it seemed an alien artefact among the traditional grandeur. His attention was anchored to a holographic display, fingers dancing across projections only he could perceive. His delay in acknowledging their presence was a calculated show of power, his eventual gaze rising not with curiosity but expectation.
+The elevator chimes resonated like a herald's trumpet as the doors parted, revealing a panorama steeped in contrived splendour. They stepped into the entryway of the penthouse, a space where opulence was meticulously staged—yet beneath its lustrous sheen, the facade of grandiosity began to fray. Here, genuine luxury mingled with artifice; genuine articles of wealth were outnumbered by their imitation counterparts, all arranged to project an image of unattainable affluence.
+The few authentic pieces shone with a muted brilliance, lost but honest amid the sea of pretence that worked too hard to impress. This was a realm that strived to embody extravagance but instead whispered of desperation. The gilt edges and sumptuous fabrics, intended to awe, instead hinted at a deeper deceit—a sickness veiled by the dazzle, where the true cost was not in the price tags of the adornments but in the authenticity they lacked.
+A short hallway ejected them into an open room, one wall let in the shadowed light from the outside world; in this world, Davie was the malformed king, ensconced behind his throne—a desk of such sleek modernity it seemed an alien artefact among the traditional grandeur. His attention was anchored to a holographic display, fingers dancing across projections only he could perceive. His delay in acknowledging their presence was a calculated show of power, his eventual gaze rising not with curiosity but expectation.
 Davie deactivated the holographic interface and regarded them with a predator's focus. He rose, the movement slow, laden with the gravity of their trespass.
 With a cold affront, he addressed them, “Do come in.” he purred with feigned cordiality. “I've been eagerly awaiting this little reunion.”
-Davie began to pace the length of the room, its plush interior a far cry from the office over the Halcyon Club. It felt too ordinary for him yet too grand. He was a glitch in this space—a spot on fine silk.
-The three accused sat in a row of seats, turned to face away from what might be a real wooden dining table. Nobody had said a word for more than a minute. Davie halted his yo-yoed pacing.
-“My club—my sanctuary—has been violated.” he purred with feigned politeness. “My systems, the walls of my digital fortress, have been breached. And somehow, you four are at the epicentre of it all,” he let the report drop from a thin smile.
+Davie rose and began to pace the room's width, its plush interior a far cry from the office over the Halcyon Club. It felt too ordinary for him yet too grand. He was a glitch in this space—a spot on fine silk.
+A set of seats awaited them, intentionally arranged and turned to face away from what might be a real wooden dining table around which they’d typically be arranged but now serving as an audience to the petty prince. As they took their seats—Garro remained standing, his arms crossed.
+Davie's restless pacing filled the void until he abruptly turned to them, gesticulating as he spoke, marking the first break in silence that stretched for over a minute. 
+“My club, my sanctuary – has been violated.” he purred in feigned politeness with sharp edges. “My systems, the walls of my digital fortress, have been breached. I get stories of Deckers from El-Cee trying to backdoor on the mess you made. And Stepper tells me Cit-Sec are crawling over things like cockroaches hunting for scraps. And somehow, you four are at the epicentre of it all,” he let the report drop from a thin smile.
 Mellie, attempting to jump ahead of the inevitable, quickly interjected, “We had nothing to do with—”
-Davie cut her off, his scorn sharp as broken glass. “Do you take me for a fool? Got vids, and one of my guys got broken fucking ribs, coincidence?”
+Davie cut her off, his scorn sharp as broken glass. “Do you take me for a fool? Got vids, and one of my guys got broken fucking ribs, coincidence?” He shot a glare at Garro.
 Gerhart now tried to disarm the rising tsunami, “We didn't come here to be chewed out. We're trying to figure this out, too.”
-Leaning into them, veins throbbing like the bass of the club broached lines against his temples, Davie’s voice climbed, “Oh, you'll figure it out, alright. Because if you don't, you're not walking out of that fucking door.”
-As His voice grew, Lynx’s attempt to coerce the conversation was lost—”We never meant for any of this to happen.”
-Davie spun to return his pace and erupted, “Meant? MEANT? You think I built all this,” he gestured around the room, “on good intentions? Do you have any idea what you've done to me? To my reputation?”
-Gerhardt went to stand, but the motion of one of the desks flanking guards stapled him into his seat again, “We're not your enemy, Davie. Getting heated isn't going to solve anything.”
-With rage expelling from his crimson face, Davie turned to face them again. Spittle volleyed following his words, “Heated? I am beyond fucking heated! I am FUCKING MOLTEN! You've embarrassed me. Made me look weak! In my world, perception is power. And you've robbed me of it!”
-They each realised that Davie was far beyond reasoning; Mellie, raising her voice to battle his, rebutted, “Davie, if we can just talk this through—”
-Having reached the end of his desk, Davie turned, slamming his hands into it, his cybernetic arm causing the edge to splinter, his anger manifesting in the wreckage. “Talk? The time of talk is long past. You're going to fix this. Or so help me, you'll wish you'd never set foot in my club.” His voice had changed fire for ice, sharp, cold, deadly.
-Pulling his ill-fitted shirt down and falling into his seat, he picked up a tiny vial and snorted the contents, inhaling and choking as he did. His eyes blaze, sealing them in the room with him. They each feel the spotlight of an approaching storm shine on them.
-Mellie extends her palms forward, placating the ire, “We can fix this, all of it. But we need the data-pack.”
-Lynx pulled himself up, fighting to re-enter the conversation, “We know that you and Zecsa had something to do with that gig—” 
+Leaning toward them, veins throbbing like the bass of the beleaguered club broached lines against his temples, Davie’s voice climbed, “Oh, you'll figure it out, alright. Because if you don't, you're not walking out of that fucking door.”
+As His voice grew, Lynx’s attempt to coerce the conversation was lost – “We never meant for any of this to happen.”
+Davie spun, returning to his pacing and erupted, “Meant? MEANT? You think I built all this,” he gestured around the room, “based on good intentions? Do you have any idea what you've done to me?”
+Gerhardt went to stand, but the motion of one of the desk’s flanking guards stapled him into his seat again. Raising his voice to match Davies but with a restrained, clinical detachment, he fought back, “We're not your enemy, Davie. Getting heated isn't going to solve anything.”
+With rage expelling from his crimson face, Davie whirled around to face them again. Spittle volleyed, shrapnel that followed his words, “Heated? I am beyond fucking heated! I am FUCKING MOLTEN!”
+Realizing Davie was beyond any ordinary reasoning, Mellie matched the intensity of the room, her voice gaining strength. “Can we just fucking talk?” she asserted, undeterred by his outbursts, showing that she’d not be kowtowed by his petulant theatrics.
+Having reached the end of his desk, Davie turned, slamming his hands into it, his cybernetic arm causing the edge to splinter, his anger manifesting in the wreckage. His energy burst and sunk into a low seething, “Talk? The time of talk is long past. You're going to fix this. Or so help me, you'll wish you'd never set foot in my club.” His voice had changed fire for ice, a chilling precision, becoming lethal in its calm.
+As Davie's cybernetic arm shattered the desk, Garro reflexively squared his shoulders; the room's emotions had kept him on edge, and the physical damage was enough to rev the motor. His gaze locked with Davie as he finished talking, a wordless challenge colliding. Davie smirks back, unfazed, "What're you gonna do?" His confidence is unshaken, flanked by guards, mocking Garro's eagre stance. Garro pulled a shallow snarl—a caged animal—as he swept his eyes between the guards. It was six paces to the desk. Wincing the back the snarl, he rocked back to his heels; he could feel his chest and arms tight with unspent energy. His eyes remained on Davie.
+Davie tugged at his ill-fitting shirt aggressively before collapsing into his seat, capturing the room's undivided attention. With a swift, almost violent gesture, he picked up a tiny vial and snorted its contents, coughing in the aftermath. As his gaze sharpened, charged with the drug's onset, his fury congealed into silent force that roots everyone in place. The air thickens, suffused with the tension of an unleashed tempest, each of them feeling the weight of his ire as if caught in the eye of a hurricane.
+Mellie extended her palms forward, placating the ire, “We can fix this, all of it. But we need the data-pack from our last run.”
+Lynx straightened, mustering the courage to reassert himself into the conversation, “We know that you and Zecsa had something to do with that gig—”
 “Zoe? She’s fuckin’ dead!” Davie cut him off, the edge of hysteria in his voice. “How the fuck should I know what happened to that damn box?”
 Lynx bounced off of the response, “No, no - I’ve been speaking with her and—”
-“Don’t fucking tell me what I do and do not know. There are maybe three runners like her in the entire city. She’s fucking dead.” The fury was gone, but Davie was far from calm.
-“But I—” Lynx swallowed his unspoken words. Davie had refocused on Mellie.
-“So, you’ll fix this?” Davie gesticulated wildly, “Fix my club, fix that people respect me—”
+“Don’t fucking tell me what I do and do not know. There are maybe three runners like her in this entire city. She’s fucking dead.” The fury was gone, but Davie was far from calm.
+“But I—” Lynx swallowed his unspoken words, his courage lost among a rising confusion.
+Davie had already refocused his attention on Mellie. “So, you’ll fix this?” Davie gave a broad wave as though summoning the idea of his broken pride for them to see, “Fix my club, fix that shit isn’t pouring down on me—”
 Mellie stood; both of the flanking bodyguards jolted from their stance but waited, held by an infinitesimal thread of reaction. “Two Million.” She pointedly declared, taking a step forward.
-Davie visibly recoiled. “Two—”
+Davie visibly recoiled. Cut from his ranting outburst, he exclaimed confusedly, “Two—”
 She repeated, taking another step, “Two million dollies.”
 Davie pulled himself to sit closer to the desk, closer to the number she had said. “On what? You running a gig for some other fixer?”
-“Two million,” she carefully pronounced and elongated the wording. “The gig you sent us on, the black ops job. Corpo money. Just sat waiting to collect– Lynx’ll show you. All we need is the data-pack.”
+“Two million,” she carefully pronounced and elongated the wording. “The job you sent us on, the black ops nonsense. Corpo money – just sat waiting to collect. Lynx’ll show you.” She nodded sideways toward Lynx, “All we need is the data-pack.”
 Davie chewed at his lower lip; the sudden and outlandish claim intrigued him.
-His human eye flickered as he mentally tallied and calculated. “Two million is a lot of money, even by my standards. How do I know you're not playing me? Cutting’ yourself free to escape with– what is honestly, a fucking insane promise?”
-Mellie had closed to be stood in front of the wide desk, “You don't. But without it, we’re screwed anyway? You want respect, power, security? Money buys all those things, Davie.”
-Gerhardt stood, glancing at each bodyguard, “She’s right, Davie. You and I go back, ya? Look at me and tell me why I’d be stood here if this weren’t the only way forward.”
-Davie rubbed at his temples and read their faces, “Alright, let's say I believe you. You get this data-pack, keep the Corpo’s off my back, make sure the fuckers in el-see aren’t a problem and restore my club – and my reputation. What's in it for you?”
-Mellie raised her face so that she looked over Davie’s head at the back wall. He was beneath her, “Half. One million, and we all walk away from this, no strings attached.”
-Davie leant back in his chair; a much more recognizable version of him now sat in the chair—a deal hung, ready to be struck. He pursed his thin lips, “You've got a lot of nerve, Mellie. A lot of nerve.”
+His human eye flickered as he mentally tallied and calculated. “Two mil is a lot of money. How do I know you're not playing me? Trying to cut yourself free to escape with what is honestly, an insane fucking promise?”
+Mellie had closed the distance enough to be stood in front of the wide desk. “You don't. But without it, we’re screwed anyway? And you know, if we’re screwed—You’re screwed. Money like that can solve a lot of things, Davie.”
+Invigorated by Mellie’s boldness, Gerhardt stood, glancing at each bodyguard. “She’s right. You and I go back, ya? Look at me and tell me why I’d be stood here if this weren’t the only way forward.”
+Davie rubbed at his temples and read their faces; his human eye squinted as he broiled in thought. “Alright, let's say I believe you. You get the data-pack back – and whatever trouble is stuck on you disappears. What's your angle?”
+Mellie raised her face so that she looked over Davie’s head at the back wall. He was beneath her. “Half. One million, and we all walk away from this, no strings attached.”
+Davie reclined in his chair; a calmer, more collected and much more recognizable version of him now sat in the chair – a deal hung, ready to be struck. He pursed his thin lips, “You've got a lot of nerve, Mellie. A lot of nerve.”
 He clasped his hands together, forming a peak of his forefingers, “But I like it. It's a deal, but know this—”
-He leans forward, locking eyes with each of them in turn.
-“If you betray me, if you make me regret this, you will all find out just how far my reach extends. Do we have an understanding?”
-Gerhardt offered a contractual nod; Lynx sought refuge from the glare; Mellie held her composure – but each of them soaked in the grave threat and their part in the new deal. 
-Mellie looked down at him, sick little shitstain, always for the money, pathetic. She thought to herself, a wry smile pulling at her lips.
-Davie flourished his hands, dismissing them. “Good. Now get out of my sight. I've got a reputation to rebuild. I’ll get Stepper to flag the deets to Lynx of where that data-pack ended up, some empty dead drop. You better hope you can find it there.”
-As they gathered in the elevator to leave, the closing doors were too poignant a visual metaphor of the box closing in about them, each side a greater threat. But for now, there is a chance—a slim one, maybe, but a chance.
+He leant forward, locking eyes with each of them in turn.
+“If you betray me, if you make me regret this, It doesn’t matter who else is on your tail; I’ll make it my fucking business to find you first. Do we have an understanding?”
+Gerhardt offered a contractual nod. Looking at Davie, he saw—not a man in control but a man grabbing in desperation. Of all the Fixers he’d done work with, Davie never ceased to amaze. The laziest, most self-serving and heartless of the lot.
+Lynx sat straighter in his chair, pushing aside the conundrum of Zecsa. For months, he’d been under Davie’s shadow, and now, he alone had control over what happened next; the data on his deck was the key and lifeline for them all. He glanced backwards over his shoulder at Garro, who hadn’t moved at all through the interaction, smiling a confident smile as he did. These were the real people of the streets of Akureyri.
+Mellie held her composure, looking down at Davie as she thought, sick little shitstain, worse than the Corps, hungry for money, pathetic. She thought to herself before inhaling to muster the question, “So, where’s the data-pack?”
+“I’ll get Stepper to flag the deets to Lynx of where it ended up – some empty dead drop. You better hope you can find it there.” His tone had dropped to a low, hard and callous unveiled threat. He flourished his hands, dismissing them.
+Mellie leaned forward, placing her hands on the edge of the desk, “Still think you got leverage, huh? Please,” she shook her head, a curl of contempt pricked at one corner of her lip, “You're just a scared little shit, bunkered down with your huscle, thinking you've got the upper hand. I've been out there—where it matters. When bullets fly, it's down to this – be the one on your feet or the one staining the 'crete. Guess which one I am? Your ‘power’? Compared to what we’ve been through, it’s a fucking joke. So, save your threats; they're nothing but child's play. I'm stepping into the real world, the real game. That's where I'm going.” She raised a hand in a nonchalant, tight wave, ushering the others to leave. “We're done here. You'll hear from us once we have it.” Her words fell on him with a dismissive scorn. Decisively ending the conversation, she turned on her heel and began striding towards the exit.
+Garro wiped the underside of his nose with a thumb as though to wipe away a bad smell. He waited as the others passed him, all the while holding a deadbolt stare at Davie before he, too, turned to join his friends as they strode toward the elevator.
+As they gathered in the elevator to leave, the closing doors were too poignant a visual metaphor of the box closing in about them, each side a greater threat and a descent into Akureyri. But for now, there was a chance—a slim one, maybe, but a chance.
 Chapter Twenty-three:	Empty Promises.
 The journey across the city unfolded in silence, broken only by the rhythmic rattle and buzz of the metro monorail cars. Mellie's jaw remained clenched, her mind bubbling with the weight of her conversation with Davie. The others sat in quiet contemplation, exchanging occasional nervous glances that masqueraded as silent conversation; Garro, still tense from the confrontation in the lobby, rolled his shoulder, looking as though he wanted to fold the entire carriage in two.
 Lynx thumbed at his bracer’s interface. Stepper had sent through a map and details of Davie's dead drop location, at which the data-pack had been deposited; another of Davie’s lackey couriers had dropped it there following their original incursion into the penthouse. The dates on the files made his stomach lurch unhappily. If that was the drop, it’s long gone, he thought inwardly, keeping his thoughts to himself.
