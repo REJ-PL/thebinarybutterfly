@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Binary Butterfly by Richard Peall</title>
+<meta name="description" content="The Binary Butterfly, a cyberpunk novel by Richard Peall. Four lives collide in Akureyri City at, more or less, the end of the world.">
+
+<!-- Social sharing previews. Replace og:image with an absolute URL to a 1200x630 image once uploaded. -->
+<meta property="og:type" content="book">
+<meta property="og:title" content="The Binary Butterfly by Richard Peall">
+<meta property="og:description" content="Four lives collide in Akureyri City at, more or less, the end of the world.">
+<meta property="og:url" content="https://thebinarybutterfly.online/">
+<meta property="og:image" content="https://thebinarybutterfly.online/img/share-card.jpg">
+<meta name="twitter:card" content="summary_large_image">
+
+<!-- Structured data: helps search engines show the book properly -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "name": "The Binary Butterfly",
+  "author": { "@type": "Person", "name": "Richard Peall" },
+  "isbn": "9781917956208",
+  "numberOfPages": 332,
+  "bookFormat": "https://schema.org/Paperback",
+  "publisher": { "@type": "Organization", "name": "Enigma Press" },
+  "genre": "Cyberpunk",
+  "offers": { "@type": "Offer", "price": "12.99", "priceCurrency": "GBP" }
+}
+</script>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@500;800;900&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;1,6..72,400&display=swap" rel="stylesheet">
+
+<style>
+/* ---------- Theme tokens: change these to re-skin the whole page ---------- */
+:root {
+  --concrete: #1E2226;   /* page background: wet concrete at night */
+  --slab:     #2A2F34;   /* raised surfaces */
+  --seam:     #3A4046;   /* borders, rules */
+  --fog:      #C9CCC6;   /* body text */
+  --paper:    #ECE8DF;   /* headings */
+  --sodium:   #F0A23B;   /* accent: sodium streetlight */
+  --aurora:   #6FC2B0;   /* secondary accent, used sparingly */
+
+  --display: "Big Shoulders Display", "Arial Narrow", "Helvetica Neue", sans-serif;
+  --text:    "Newsreader", Georgia, "Times New Roman", serif;
+
+  --measure: 36rem;      /* comfortable reading width */
+  --gutter:  clamp(1.25rem, 5vw, 4rem);
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body {
+  margin: 0;
+  background-color: var(--concrete);
+  /* sodium glow from above + fine concrete grain */
+  background-image:
+    radial-gradient(ellipse 80% 50% at 70% -10%, rgba(240,162,59,.18), transparent 70%),
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 .05 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  color: var(--fog);
+  font-family: var(--text);
+  font-size: clamp(1.05rem, 1rem + .3vw, 1.2rem);
+  line-height: 1.65;
+}
+img { max-width: 100%; display: block; }
+a { color: var(--sodium); text-underline-offset: .2em; }
+a:hover { color: var(--aurora); }
+:focus-visible { outline: 2px solid var(--aurora); outline-offset: 3px; }
+
+h1, h2, h3 { font-family: var(--display); color: var(--paper); line-height: 1; margin: 0; }
+h2 { font-size: clamp(2.2rem, 1.6rem + 2.5vw, 3.4rem); font-weight: 800; margin-bottom: 1.5rem; }
+h3 { font-size: 1.6rem; font-weight: 800; }
+
+.wrap { max-width: 72rem; margin: 0 auto; padding: 0 var(--gutter); }
+section { padding: clamp(4rem, 10vw, 7rem) 0; border-top: 1px solid var(--seam); }
+.prose { max-width: var(--measure); }
+.prose p { margin: 0 0 1.2em; }
+
+/* ---------- Skip link ---------- */
+.skip { position: absolute; left: -999px; }
+.skip:focus { left: 1rem; top: 1rem; background: var(--sodium); color: var(--concrete); padding: .5rem 1rem; z-index: 10; }
+
+/* ---------- Top bar ---------- */
+.bar { display: flex; justify-content: space-between; align-items: center; padding: 1.5rem 0; }
+.bar .mark { font-family: var(--display); font-weight: 800; font-size: 1.3rem; color: var(--paper); text-decoration: none; }
+.bar nav { display: flex; gap: 1.5rem; flex-wrap: wrap; }
+.bar nav a { color: var(--fog); text-decoration: none; font-family: var(--display); font-weight: 500; font-size: 1.15rem; }
+.bar nav a:hover { color: var(--sodium); }
+
+/* ---------- Hero: the one bold moment ---------- */
+.hero { display: grid; grid-template-columns: 1.3fr 1fr; gap: clamp(2rem, 6vw, 5rem); align-items: end; padding: clamp(3rem, 8vw, 6rem) 0 clamp(4rem, 10vw, 7rem); }
+.title {
+  font-size: clamp(4.2rem, 2rem + 10vw, 10rem);
+  font-weight: 900;
+  line-height: .86;
+  text-transform: uppercase;
+  letter-spacing: -.01em;
+}
+.title span { display: block; }
+.title .bin { color: var(--sodium); font-variant-numeric: tabular-nums; }
+.byline { font-family: var(--display); font-weight: 500; font-size: clamp(1.5rem, 1.2rem + 1vw, 2.2rem); color: var(--paper); margin: 1.5rem 0 1rem; }
+.hook { font-style: italic; max-width: 30rem; margin: 0 0 2rem; }
+
+.btn {
+  display: inline-block; background: var(--sodium); color: var(--concrete);
+  font-family: var(--display); font-weight: 800; font-size: 1.35rem;
+  padding: .7rem 1.6rem; text-decoration: none;
+  clip-path: polygon(0 0, 100% 0, 100% 70%, calc(100% - .8rem) 100%, 0 100%); /* clipped corner, like a stamped plate */
+}
+.btn:hover { background: var(--paper); color: var(--concrete); }
+.price { margin-left: 1rem; font-family: var(--display); font-size: 1.3rem; color: var(--paper); }
+
+/* ---------- Image placeholders (delete once real images are in) ---------- */
+.placeholder {
+  display: grid; place-items: center; text-align: center;
+  border: 2px dashed var(--seam); background: var(--slab);
+  color: #8C9290; font-family: var(--display); font-size: 1.1rem; padding: 1rem;
+}
+.cover { aspect-ratio: 2 / 3; width: 100%; max-width: 24rem; justify-self: end; box-shadow: 0 30px 60px -20px rgba(0,0,0,.7), 0 0 0 1px var(--seam); }
+.cover.placeholder { box-shadow: none; }
+.portrait { aspect-ratio: 4 / 5; width: 100%; max-width: 20rem; }
+
+/* ---------- Book details ---------- */
+.split { display: grid; grid-template-columns: 1.4fr 1fr; gap: clamp(2rem, 6vw, 5rem); }
+dl.facts { margin: 0; display: grid; grid-template-columns: auto 1fr; gap: .6rem 1.5rem; align-content: start; border-left: 3px solid var(--sodium); padding-left: 1.5rem; }
+dl.facts dt { font-family: var(--display); font-weight: 500; color: #8C9290; font-size: 1.15rem; }
+dl.facts dd { margin: 0; color: var(--paper); }
+
+/* ---------- Praise ---------- */
+.quotes { display: grid; gap: 2.5rem; max-width: 50rem; }
+blockquote { margin: 0; font-size: clamp(1.25rem, 1.1rem + .6vw, 1.6rem); line-height: 1.45; color: var(--paper); font-style: italic; }
+blockquote footer { font-style: normal; font-size: 1rem; color: #8C9290; margin-top: .6rem; }
+
+/* ---------- Where to buy ---------- */
+.stores { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr)); border-top: 1px solid var(--seam); }
+.stores li { border-bottom: 1px solid var(--seam); }
+.stores a {
+  display: flex; justify-content: space-between; align-items: baseline;
+  padding: 1.1rem .25rem; text-decoration: none; color: var(--paper);
+  font-family: var(--display); font-weight: 800; font-size: 1.6rem;
+}
+.stores a small { font-family: var(--text); font-weight: 400; font-size: .95rem; color: #8C9290; }
+.stores a:hover { color: var(--sodium); }
+
+/* ---------- Author ---------- */
+.author { display: grid; grid-template-columns: 20rem 1fr; gap: clamp(2rem, 6vw, 5rem); align-items: start; }
+
+/* ---------- Footer ---------- */
+.foot { border-top: 1px solid var(--seam); padding: 2.5rem 0 3rem; font-size: .95rem; color: #8C9290; display: flex; justify-content: space-between; flex-wrap: wrap; gap: 1rem; }
+
+/* ---------- Mobile ---------- */
+@media (max-width: 760px) {
+  .hero, .split, .author { grid-template-columns: 1fr; }
+  .cover { justify-self: start; max-width: 18rem; }
+  .bar nav { gap: 1rem; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+}
+</style>
+</head>
+<body>
+<a class="skip" href="#book">Skip to the book</a>
+
+<div class="wrap">
+  <header class="bar">
+    <a class="mark" href="#">Richard Peall</a>
+    <nav aria-label="Main">
+      <a href="#book">The book</a>
+      <a href="#buy">Buy</a>
+      <a href="#author">Author</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <div class="hero">
+      <div>
+        <h1 class="title" aria-label="The Binary Butterfly">
+          <span>The</span>
+          <span class="bin" data-decode="Binary">Binary</span>
+          <span>Butterfly</span>
+        </h1>
+        <p class="byline">A novel by Richard Peall</p>
+        <p class="hook">Akureyri City: a concrete monument to misplaced hope, where the people who build the place are the ones it grinds down hardest.</p>
+        <a class="btn" href="#buy">Get the book</a><span class="price">£12.99 paperback</span>
+      </div>
+
+      <!-- COVER: replace this div with
+           <img class="cover" src="img/cover.jpg" alt="Cover of The Binary Butterfly by Richard Peall" width="800" height="1200"> -->
+      <div class="cover placeholder">Cover image<br>800 × 1200 JPG<br>img/cover.jpg</div>
+    </div>
+
+    <section id="book">
+      <div class="split">
+        <div class="prose">
+          <h2>About the book</h2>
+          <p>Four lives bump into each other by chance at, more or less, the end of the world, and proceed to build their own consequences around themselves without ever quite meaning to.</p>
+          <p>It's a story about existence, money and power not always being the same thing, and people muddling through the toil of it all.</p>
+          <!-- Optional comps line. Keep or remove. -->
+          <p>For readers of Adrian Tchaikovsky's <em>Service Model</em> and Emily Tesh's <em>Some Desperate Glory</em>.</p>
+        </div>
+        <dl class="facts">
+          <dt>Format</dt><dd>Paperback, 332 pages</dd>
+          <dt>Price</dt><dd>£12.99</dd>
+          <dt>ISBN</dt><dd>978-1-917956-20-8</dd>
+          <dt>Publisher</dt><dd>Enigma Press</dd>
+          <dt>Ebook</dt><dd><!-- EDIT --> Coming soon</dd>
+        </dl>
+      </div>
+    </section>
+
+    <section id="praise">
+      <h2>What readers say</h2>
+      <div class="quotes">
+        <!-- Replace with real review quotes; delete any unused block -->
+        <blockquote>
+          <p>Review quote goes here. One or two sentences, pulled from a published review.</p>
+          <footer>Reviewer name, Publication or blog</footer>
+        </blockquote>
+        <blockquote>
+          <p>Second review quote goes here.</p>
+          <footer>Reviewer name, Publication or blog</footer>
+        </blockquote>
+      </div>
+    </section>
+
+    <section id="extract">
+      <div class="prose">
+        <h2>Read the opening</h2>
+        <p>Try the first chapter free before you buy.</p>
+        <!-- EDIT: point this at a PDF/EPUB in the repo, e.g. files/opening.pdf -->
+        <a class="btn" href="#">Read the extract</a>
+      </div>
+    </section>
+
+    <section id="buy">
+      <h2>Where to buy</h2>
+      <ul class="stores">
+        <li><a href="https://uk.bookshop.org/p/books/the-binary-butterfly-richard-peall/90111f8dfc41b862?ean=9781917956208">Bookshop.org <small>supports indie shops</small></a></li>
+        <li><a href="https://www.waterstones.com/book/the-binary-butterfly/richard-peall/9781917956208">Waterstones <small>paperback</small></a></li>
+        <li><a href="https://www.foyles.co.uk/book/the-binary-butterfly/richard-peall/9781917956208">Foyles <small>paperback</small></a></li>
+        <li><a href="https://www.tgjonesonline.co.uk/Product/RICHARD-PEALL/THE-BINARY-BUTTERFLY/15994697">TGJones <small>paperback</small></a></li>
+        <li><a href="https://www.amazon.co.uk/Binary-Butterfly-Richard-Peall/dp/1917956207/">Amazon <small>paperback</small></a></li>
+      </ul>
+      <p class="prose" style="margin-top:1.5rem">Any bookshop can order it with the ISBN 978-1-917956-20-8.</p>
+    </section>
+
+    <section id="author">
+      <div class="author">
+        <!-- PORTRAIT: replace with
+             <img class="portrait" src="img/author.jpg" alt="Richard Peall" width="640" height="800"> -->
+        <div class="portrait placeholder">Author photo<br>640 × 800 JPG<br>img/author.jpg</div>
+        <div class="prose">
+          <h2>Richard Peall</h2>
+          <!-- EDIT: check every line below before publishing -->
+          <p>Richard Peall writes and designs games from Lincolnshire. After a career spent mostly in business intelligence, he took early retirement to make things of his own.</p>
+          <p>He publishes tabletop and video games as Afour games. <em>The Binary Butterfly</em> is his debut novel. It began life at the gaming table as a long-running cyberpunk campaign and refused to stay there.</p>
+          <p><a href="https://afour.games/">afour.games</a></p>
+        </div>
+      </div>
+    </section>
+
+    <section id="contact">
+      <div class="prose">
+        <h2>Press and reviews</h2>
+        <p>Review copies, interviews and event requests are welcome. Ebook review copies are available in EPUB.</p>
+        <!-- EDIT: your contact address -->
+        <p><a href="mailto:you@example.com">you@example.com</a></p>
+        <!-- Optional: a zip in the repo with cover, author photo and one-page press release -->
+        <p><a href="#">Download the press kit</a></p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="foot">
+    <span>© 2026 Richard Peall</span>
+    <span>Published by Enigma Press</span>
+  </footer>
+</div>
+
+<script>
+/* One-off decode: "Binary" resolves from 0s and 1s on page load. Skipped if the visitor prefers reduced motion. */
+(function () {
+  var el = document.querySelector('[data-decode]');
+  if (!el || window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+  var word = el.dataset.decode, frame = 0, total = 36;
+  function tick() {
+    var settled = Math.floor((frame / total) * word.length);
+    var out = '';
+    for (var i = 0; i < word.length; i++) {
+      out += i < settled ? word[i] : (Math.random() < .5 ? '0' : '1');
+    }
+    el.textContent = out;
+    if (frame++ < total) { setTimeout(tick, 45); } else { el.textContent = word; }
+  }
+  setTimeout(tick, 300);
+})();
+</script>
+</body>
+</html>
