@@ -66,7 +66,7 @@ body {
   font-size: clamp(1.05rem, 1rem + .3vw, 1.2rem);
   line-height: 1.65;
 }
-img { max-width: 100%; display: block; }
+img { max-width: 100%; height: auto; display: block; }
 a { color: var(--sodium); text-underline-offset: .2em; }
 a:hover { color: var(--aurora); }
 :focus-visible { outline: 2px solid var(--aurora); outline-offset: 3px; }
@@ -113,7 +113,7 @@ section { padding: clamp(4rem, 10vw, 7rem) 0; border-top: 1px solid var(--seam);
 .float.gone { opacity: 0; visibility: hidden; }
 
 /* ---------- Hero: the one bold moment ---------- */
-.hero { display: grid; grid-template-columns: 1.3fr 1fr; gap: clamp(2rem, 6vw, 5rem); align-items: end; padding: clamp(5rem, 8vw, 6rem) 0 clamp(4rem, 10vw, 7rem); }
+.hero { display: grid; grid-template-columns: minmax(0, 1.3fr) minmax(0, 1fr); gap: clamp(2rem, 6vw, 5rem); align-items: end; padding: clamp(5rem, 8vw, 6rem) 0 clamp(4rem, 10vw, 7rem); }
 .title {
   font-size: clamp(4.2rem, 2rem + 10vw, 10rem);
   font-weight: 900;
@@ -142,7 +142,6 @@ section { padding: clamp(4rem, 10vw, 7rem) 0; border-top: 1px solid var(--seam);
   color: #8C9290; font-family: var(--display); font-size: 1.1rem; padding: 1rem;
 }
 .cover { aspect-ratio: 2 / 3; width: 100%; max-width: 24rem; justify-self: end; box-shadow: 0 30px 60px -20px rgba(0,0,0,.7), 0 0 0 1px var(--seam); }
-.cover.placeholder { box-shadow: none; }
 .portrait { aspect-ratio: 4 / 5; width: 100%; max-width: 20rem; }
 
 /* ---------- Book details ---------- */
@@ -207,9 +206,7 @@ blockquote footer { font-style: normal; font-size: 1rem; color: #8C9290; margin-
         <a class="btn" href="#buy">Get the book</a><span class="price">£12.99 paperback</span>
       </div>
 
-      <!-- COVER: replace this div with
-           <img class="cover" src="img/cover.jpg" alt="Cover of The Binary Butterfly by Richard Peall" width="800" height="1200"> -->
-      <div class="cover placeholder">Cover image<br>800 × 1200 JPG<br>img/cover.jpg</div>
+      <img class="cover" src="TBB-COVER.jpg" alt="Cover of The Binary Butterfly by Richard Peall" width="800" height="1200" fetchpriority="high">
     </div>
 
     <section id="book">
