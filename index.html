@@ -80,6 +80,20 @@ section { padding: clamp(4rem, 10vw, 7rem) 0; border-top: 1px solid var(--seam);
 .prose { max-width: var(--measure); }
 .prose p { margin: 0 0 1.2em; }
 
+/* ---------- Hex field: faint honeycomb at the top of the page, fading into the concrete ----------
+   Flat-top hexes, side 30px, tile 90 x 52. The canvas glints run on the same lattice, so keep the two in step. */
+.hexfield {
+  position: absolute; top: 0; left: 0; right: 0;
+  height: 100vh; min-height: 40rem;
+  z-index: 0; pointer-events: none; overflow: hidden;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='90' height='52'%3E%3Cpath d='M0 26H15L30 0H60L75 26H90M15 26L30 52H60L75 26' fill='none' stroke='%236FC2B0' stroke-opacity='.075' stroke-width='1'/%3E%3C/svg%3E");
+  background-size: 90px 52px;
+  -webkit-mask-image: linear-gradient(to bottom, #000 0%, rgba(0,0,0,.55) 45%, transparent 100%);
+          mask-image: linear-gradient(to bottom, #000 0%, rgba(0,0,0,.55) 45%, transparent 100%);
+}
+.hexfield canvas { display: block; width: 100%; height: 100%; }
+.wrap { position: relative; z-index: 1; }
+
 /* ---------- Skip link ---------- */
 .skip { position: absolute; left: -999px; }
 .skip:focus { left: 1rem; top: 1rem; background: var(--sodium); color: var(--concrete); padding: .5rem 1rem; z-index: 10; }
@@ -166,6 +180,7 @@ blockquote footer { font-style: normal; font-size: 1rem; color: #8C9290; margin-
 </head>
 <body>
 <a class="skip" href="#book">Skip to the book</a>
+<div class="hexfield" aria-hidden="true"><canvas></canvas></div>
 
 <div class="wrap">
   <header class="bar">
@@ -300,6 +315,116 @@ blockquote footer { font-style: normal; font-size: 1rem; color: #8C9290; margin-
     if (frame++ < total) { setTimeout(tick, 45); } else { el.textContent = word; }
   }
   setTimeout(tick, 300);
+})();
+</script>
+
+<script>
+/* Hex glints: faint points of light that run along the honeycomb lines and fade.
+   Skipped if the visitor prefers reduced motion (the static grid stays), and paused while off screen. */
+(function () {
+  var field = document.querySelector('.hexfield');
+  var canvas = field && field.querySelector('canvas');
+  if (!canvas || !canvas.getContext || window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+
+  var ctx = canvas.getContext('2d');
+  var TW = 90, TH = 52, HX = 30, DX = 15, DY = 26;   /* must match the CSS tile */
+  /* Every lattice vertex has three edges. "A" vertices have their flat edge to the left, "B" to the right;
+     each step alternates the type, and B's direction i is the reverse of A's direction i. */
+  var DIRS = {
+    A: [[-HX, 0], [DX, -DY], [DX, DY]],
+    B: [[HX, 0], [-DX, -DY], [-DX, DY]]
+  };
+  var TRAIL = 0.7;                                   /* seconds of tail */
+  var COLOURS = ['111,194,176', '111,194,176', '111,194,176', '240,162,59'];  /* mostly aurora, sometimes sodium */
+  var w = 0, h = 0, glints = [], running = false, last = 0;
+
+  function spawn(g, now) {
+    var cols = Math.ceil(w / TW) + 1, rows = Math.ceil(h / TH) + 1;
+    g.x = TW * Math.floor(Math.random() * cols) + DX;
+    g.y = TH * Math.floor(Math.random() * rows * 0.75) + DY;  /* favour the top, where the grid is strongest */
+    g.type = 'A';
+    g.dir = Math.floor(Math.random() * 3);
+    g.along = 0;
+    g.speed = 45 + Math.random() * 40;
+    g.born = now + Math.random() * 3;                 /* staggered starts */
+    g.life = 3 + Math.random() * 4;
+    g.rgb = COLOURS[Math.floor(Math.random() * COLOURS.length)];
+    g.trail = [];
+    return g;
+  }
+
+  function resize() {
+    var dpr = Math.min(window.devicePixelRatio || 1, 2);
+    w = field.clientWidth; h = field.clientHeight;
+    canvas.width = Math.round(w * dpr); canvas.height = Math.round(h * dpr);
+    ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+    var want = Math.max(4, Math.min(16, Math.round(w * h / 70000)));
+    var now = performance.now() / 1000;
+    while (glints.length < want) glints.push(spawn({}, now));
+    glints.length = want;
+  }
+
+  function step(g, dt, now) {
+    if (now < g.born) return;
+    var d = DIRS[g.type][g.dir];
+    var len = Math.sqrt(d[0] * d[0] + d[1] * d[1]);
+    g.along += g.speed * dt;
+    while (g.along >= len) {                          /* reached the next vertex: pick a new edge, never straight back */
+      g.along -= len;
+      g.x += d[0]; g.y += d[1];
+      g.trail.push({ x: g.x, y: g.y, t: now });
+      g.type = g.type === 'A' ? 'B' : 'A';
+      var next = Math.floor(Math.random() * 2);
+      g.dir = next >= g.dir ? next + 1 : next;
+      d = DIRS[g.type][g.dir];
+      len = Math.sqrt(d[0] * d[0] + d[1] * d[1]);
+    }
+    var f = g.along / len;
+    g.hx = g.x + d[0] * f; g.hy = g.y + d[1] * f;
+    g.trail.push({ x: g.hx, y: g.hy, t: now });
+    while (g.trail.length && now - g.trail[0].t > TRAIL) g.trail.shift();
+  }
+
+  function draw(g, now) {
+    if (now < g.born || g.trail.length < 2) return;
+    var age = (now - g.born) / g.life;
+    if (age >= 1) { spawn(g, now); g.born = now + Math.random() * 1.5; return; }
+    var env = Math.sin(Math.PI * age) * 0.5;          /* peak opacity: keep it a whisper */
+    var t = g.trail;
+    ctx.lineWidth = 1.2;
+    for (var i = 1; i < t.length; i++) {
+      var a = env * (1 - (now - t[i].t) / TRAIL);
+      if (a <= 0) continue;
+      ctx.strokeStyle = 'rgba(' + g.rgb + ',' + a.toFixed(3) + ')';
+      ctx.beginPath(); ctx.moveTo(t[i - 1].x, t[i - 1].y); ctx.lineTo(t[i].x, t[i].y); ctx.stroke();
+    }
+    var r = ctx.createRadialGradient(g.hx, g.hy, 0, g.hx, g.hy, 6);
+    r.addColorStop(0, 'rgba(' + g.rgb + ',' + (env * 1.4).toFixed(3) + ')');
+    r.addColorStop(1, 'rgba(' + g.rgb + ',0)');
+    ctx.fillStyle = r;
+    ctx.fillRect(g.hx - 6, g.hy - 6, 12, 12);
+  }
+
+  function frame(ms) {
+    if (!running) return;
+    var now = ms / 1000, dt = Math.min(now - last, 0.05);
+    last = now;
+    ctx.clearRect(0, 0, w, h);
+    ctx.globalCompositeOperation = 'lighter';
+    for (var i = 0; i < glints.length; i++) { step(glints[i], dt, now); draw(glints[i], now); }
+    requestAnimationFrame(frame);
+  }
+
+  function start() { if (running) return; running = true; last = performance.now() / 1000; requestAnimationFrame(frame); }
+  function stop() { running = false; }
+
+  resize();
+  window.addEventListener('resize', resize);
+  if ('IntersectionObserver' in window) {
+    new IntersectionObserver(function (e) { e[0].isIntersecting ? start() : stop(); }).observe(field);
+  } else {
+    start();
+  }
 })();
 </script>
 </body>
