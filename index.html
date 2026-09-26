@@ -135,14 +135,22 @@ section { padding: clamp(4rem, 10vw, 7rem) 0; border-top: 1px solid var(--seam);
 .btn:hover { background: var(--paper); color: var(--concrete); }
 .price { margin-left: 1rem; font-family: var(--display); font-size: 1.3rem; color: var(--paper); }
 
-/* ---------- Image placeholders (delete once real images are in) ---------- */
-.placeholder {
-  display: grid; place-items: center; text-align: center;
-  border: 2px dashed var(--seam); background: var(--slab);
-  color: #8C9290; font-family: var(--display); font-size: 1.1rem; padding: 1rem;
-}
 .cover { aspect-ratio: 2 / 3; width: 100%; max-width: 24rem; justify-self: end; box-shadow: 0 30px 60px -20px rgba(0,0,0,.7), 0 0 0 1px var(--seam); }
-.portrait { aspect-ratio: 4 / 5; width: 100%; max-width: 20rem; }
+
+/* Author photo: corners cut top right and bottom left, like the button's stamped plate.
+   The frame is 1px larger than the photo; its cut edges are sodium, the straight edges are seam. */
+.portrait {
+  width: 100%; max-width: 20rem;
+  --cut: 1.75rem;
+  --chamfer: polygon(0 0, calc(100% - var(--cut)) 0, 100% var(--cut), 100% 100%, var(--cut) 100%, 0 calc(100% - var(--cut)));
+  padding: 1px;
+  background:
+    linear-gradient(225deg, var(--sodium) calc(var(--cut) * .7071 + 2px), transparent 0),
+    linear-gradient(45deg,  var(--sodium) calc(var(--cut) * .7071 + 2px), transparent 0),
+    var(--seam);
+  clip-path: var(--chamfer);
+}
+.portrait img { width: 100%; clip-path: var(--chamfer); }
 
 /* ---------- Book details ---------- */
 .split { display: grid; grid-template-columns: 1.4fr 1fr; gap: clamp(2rem, 6vw, 5rem); }
@@ -266,9 +274,7 @@ blockquote footer { font-style: normal; font-size: 1rem; color: #8C9290; margin-
 
     <section id="author">
       <div class="author">
-        <!-- PORTRAIT: replace with
-             <img class="portrait" src="img/author.jpg" alt="Richard Peall" width="640" height="800"> -->
-        <div class="portrait placeholder">Author photo<br>640 × 800 JPG<br>img/author.jpg</div>
+        <div class="portrait"><img src="Richy2023_6x8.jpg" alt="Richard Peall" width="640" height="800" loading="lazy"></div>
         <div class="prose">
           <h2>Richard Peall</h2>
           <!-- EDIT: check every line below before publishing -->
