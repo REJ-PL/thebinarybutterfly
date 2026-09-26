@@ -98,15 +98,22 @@ section { padding: clamp(4rem, 10vw, 7rem) 0; border-top: 1px solid var(--seam);
 .skip { position: absolute; left: -999px; }
 .skip:focus { left: 1rem; top: 1rem; background: var(--sodium); color: var(--concrete); padding: .5rem 1rem; z-index: 10; }
 
-/* ---------- Top bar ---------- */
-.bar { display: flex; justify-content: space-between; align-items: center; padding: 1.5rem 0; }
-.bar .mark { font-family: var(--display); font-weight: 800; font-size: 1.3rem; color: var(--paper); text-decoration: none; }
-.bar nav { display: flex; gap: 1.5rem; flex-wrap: wrap; }
-.bar nav a { color: var(--fog); text-decoration: none; font-family: var(--display); font-weight: 500; font-size: 1.15rem; }
-.bar nav a:hover { color: var(--sodium); }
+/* ---------- Floating contact link: fades away once the contact section is on screen ---------- */
+.float {
+  position: fixed; top: 1.25rem; right: var(--gutter); z-index: 5;
+  transition: opacity .4s ease, visibility .4s;
+}
+.float a {
+  display: inline-block; padding: .45rem 1.1rem;
+  font-family: var(--display); font-weight: 500; font-size: 1.15rem; color: var(--paper); text-decoration: none;
+  background: rgba(30,34,38,.7); border: 1px solid var(--seam);
+  -webkit-backdrop-filter: blur(6px); backdrop-filter: blur(6px);
+}
+.float a:hover { color: var(--sodium); border-color: var(--sodium); }
+.float.gone { opacity: 0; visibility: hidden; }
 
 /* ---------- Hero: the one bold moment ---------- */
-.hero { display: grid; grid-template-columns: 1.3fr 1fr; gap: clamp(2rem, 6vw, 5rem); align-items: end; padding: clamp(3rem, 8vw, 6rem) 0 clamp(4rem, 10vw, 7rem); }
+.hero { display: grid; grid-template-columns: 1.3fr 1fr; gap: clamp(2rem, 6vw, 5rem); align-items: end; padding: clamp(5rem, 8vw, 6rem) 0 clamp(4rem, 10vw, 7rem); }
 .title {
   font-size: clamp(4.2rem, 2rem + 10vw, 10rem);
   font-weight: 900;
@@ -170,11 +177,11 @@ blockquote footer { font-style: normal; font-size: 1rem; color: #8C9290; margin-
 @media (max-width: 760px) {
   .hero, .split, .author { grid-template-columns: 1fr; }
   .cover { justify-self: start; max-width: 18rem; }
-  .bar nav { gap: 1rem; }
 }
 
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
+  .float { transition: none; }
 }
 </style>
 </head>
@@ -183,15 +190,9 @@ blockquote footer { font-style: normal; font-size: 1rem; color: #8C9290; margin-
 <div class="hexfield" aria-hidden="true"><canvas></canvas></div>
 
 <div class="wrap">
-  <header class="bar">
-    <a class="mark" href="#">Richard Peall</a>
-    <nav aria-label="Main">
-      <a href="#book">The book</a>
-      <a href="#buy">Buy</a>
-      <a href="#author">Author</a>
-      <a href="#contact">Contact</a>
-    </nav>
-  </header>
+  <nav class="float" aria-label="Contact">
+    <a href="#contact">Contact</a>
+  </nav>
 
   <main>
     <div class="hero">
@@ -425,6 +426,17 @@ blockquote footer { font-style: normal; font-size: 1rem; color: #8C9290; margin-
   } else {
     start();
   }
+})();
+</script>
+
+<script>
+/* Hide the floating contact link while the contact section itself is in view. */
+(function () {
+  var link = document.querySelector('.float'), target = document.getElementById('contact');
+  if (!link || !target || !('IntersectionObserver' in window)) return;
+  new IntersectionObserver(function (e) {
+    link.classList.toggle('gone', e[0].isIntersecting);
+  }).observe(target);
 })();
 </script>
 </body>
