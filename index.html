@@ -67,6 +67,7 @@ body {
   line-height: 1.65;
 }
 img { max-width: 100%; height: auto; display: block; }
+[hidden] { display: none !important; }
 a { color: var(--sodium); text-underline-offset: .2em; }
 a:hover { color: var(--aurora); }
 :focus-visible { outline: 2px solid var(--aurora); outline-offset: 3px; }
@@ -177,6 +178,36 @@ blockquote footer { font-style: normal; font-size: 1rem; color: #8C9290; margin-
 /* ---------- Author ---------- */
 .author { display: grid; grid-template-columns: 20rem 1fr; gap: clamp(2rem, 6vw, 5rem); align-items: start; }
 
+/* ---------- Contact form (posts to Formspree) ---------- */
+.contact-form { display: grid; gap: 1.25rem; max-width: 40rem; margin-top: 2rem; }
+.form-row { display: grid; grid-template-columns: 1fr 1fr; gap: 1.25rem; }
+.field { display: grid; gap: .4rem; }
+.field label { font-family: var(--display); font-weight: 500; font-size: 1.15rem; color: #8C9290; }
+.field input, .field select, .field textarea {
+  width: 100%; font: inherit; font-size: 1rem; line-height: 1.4; color: var(--paper);
+  background: var(--slab); border: 1px solid var(--seam); border-radius: 0; padding: .7rem .85rem;
+}
+.field textarea { min-height: 9rem; resize: vertical; }
+.field select {
+  appearance: none; -webkit-appearance: none; padding-right: 2.5rem;
+  background: var(--slab) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8'%3E%3Cpath d='M1 1l5 5 5-5' fill='none' stroke='%23F0A23B' stroke-width='1.5'/%3E%3C/svg%3E") no-repeat right .9rem center;
+}
+.field select:invalid { color: #8C9290; }
+.field option { color: var(--paper); background: var(--slab); }
+.field ::placeholder { color: #8C9290; opacity: 1; }
+.field input:focus, .field select:focus, .field textarea:focus { outline: 2px solid var(--aurora); outline-offset: 0; border-color: var(--aurora); }
+.honeypot { position: absolute; left: -9999px; width: 1px; height: 1px; overflow: hidden; }
+button.btn { border: 0; cursor: pointer; justify-self: start; }
+button.btn:disabled { opacity: .6; cursor: progress; }
+.form-note { margin: 0; font-size: .95rem; color: #8C9290; }
+.form-status { margin: 0; }
+.form-status:empty { display: none; }
+.form-status.error { color: var(--sodium); }
+.form-success { font-family: var(--display); font-weight: 500; font-size: clamp(1.4rem, 1.2rem + .8vw, 1.9rem); color: var(--paper); margin: 2rem 0 0; }
+.form-success:focus { outline: none; }
+.foot a { color: inherit; }
+.foot a:hover { color: var(--sodium); }
+
 /* ---------- Footer ---------- */
 .foot { border-top: 1px solid var(--seam); padding: 2.5rem 0 3rem; font-size: .95rem; color: #8C9290; display: flex; justify-content: space-between; flex-wrap: wrap; gap: 1rem; }
 
@@ -184,6 +215,7 @@ blockquote footer { font-style: normal; font-size: 1rem; color: #8C9290; margin-
 @media (max-width: 760px) {
   .hero, .split, .author { grid-template-columns: 1fr; }
   .cover { justify-self: start; max-width: 18rem; }
+  .form-row { grid-template-columns: 1fr; }
 }
 
 @media (prefers-reduced-motion: reduce) {
@@ -286,18 +318,59 @@ blockquote footer { font-style: normal; font-size: 1rem; color: #8C9290; margin-
 
     <section id="contact">
       <div class="prose">
-        <h2>Press and reviews</h2>
-        <p>Review copies, interviews and event requests are welcome. Ebook review copies are available in EPUB.</p>
-        <!-- EDIT: your contact address -->
-        <p><a href="mailto:you@example.com">you@example.com</a></p>
-        <!-- Optional: a zip in the repo with cover, author photo and one-page press release -->
-        <p><a href="#">Download the press kit</a></p>
+        <h2>Get in touch</h2>
+        <p>Readers, reviewers, press and event organisers are all welcome. Review copies are available in EPUB, and I'm happy to talk about interviews and appearances.</p>
       </div>
+
+      <!-- Without JavaScript this posts straight to Formspree, which shows its own thank-you page -->
+      <form class="contact-form" id="contact-form" action="https://formspree.io/f/xdajvpzg" method="POST">
+        <!-- Honeypot anti-spam field: do not remove -->
+        <div class="honeypot" aria-hidden="true">
+          <label for="gotcha">Leave this empty</label>
+          <input type="text" id="gotcha" name="_gotcha" tabindex="-1" autocomplete="off">
+        </div>
+        <input type="hidden" name="_subject" value="Contact via thebinarybutterfly.online">
+
+        <div class="form-row">
+          <div class="field">
+            <label for="cf-name">Name</label>
+            <input type="text" id="cf-name" name="name" required autocomplete="name" placeholder="Your name">
+          </div>
+          <div class="field">
+            <label for="cf-email">Email</label>
+            <input type="email" id="cf-email" name="email" required autocomplete="email" placeholder="your@email.com">
+          </div>
+        </div>
+
+        <div class="field">
+          <label for="cf-reason">Reason for contact</label>
+          <select id="cf-reason" name="reason" required>
+            <option value="" disabled selected>Please select…</option>
+            <option value="Reader message">Reader message</option>
+            <option value="Press / media enquiry">Press / media enquiry</option>
+            <option value="Review copy request">Review copy request</option>
+            <option value="Events / appearances">Events / appearances</option>
+            <option value="Other">Other</option>
+          </select>
+        </div>
+
+        <div class="field">
+          <label for="cf-message">Message</label>
+          <textarea id="cf-message" name="message" required placeholder="Your message…"></textarea>
+        </div>
+
+        <button type="submit" class="btn">Send message</button>
+        <p class="form-status" id="form-status" role="alert"></p>
+        <p class="form-note">Your message goes directly to Richard. No mailing lists. No third-party sharing.</p>
+      </form>
+
+      <p class="form-success" id="form-success" tabindex="-1" hidden>Thank you — message received. I'll be in touch.</p>
     </section>
   </main>
 
   <footer class="foot">
     <span>© 2026 Richard Peall</span>
+    <span>Bluesky: <a href="https://bsky.app/profile/thebinarybutterfly.online" rel="noopener">@thebinarybutterfly.online</a> · X: <a href="https://x.com/richpeall" rel="noopener">@richpeall</a></span>
     <span>Published by Enigma Press</span>
   </footer>
 </div>
@@ -439,6 +512,36 @@ blockquote footer { font-style: normal; font-size: 1rem; color: #8C9290; margin-
   new IntersectionObserver(function (e) {
     link.classList.toggle('gone', e[0].isIntersecting);
   }).observe(target);
+})();
+</script>
+
+<script>
+/* Contact form: send in the background and show the result in place, instead of leaving the page. */
+(function () {
+  var form = document.getElementById('contact-form');
+  if (!form || !window.fetch || !window.FormData) return;
+  var status = document.getElementById('form-status');
+  var success = document.getElementById('form-success');
+  var button = form.querySelector('button[type="submit"]');
+
+  form.addEventListener('submit', function (e) {
+    e.preventDefault();
+    status.textContent = ''; status.className = 'form-status';
+    button.disabled = true; button.textContent = 'Sending…';
+
+    fetch(form.action, { method: 'POST', body: new FormData(form), headers: { 'Accept': 'application/json' } })
+      .then(function (res) {
+        if (!res.ok) throw new Error(res.status);
+        form.hidden = true;
+        success.hidden = false;
+        success.focus();
+      })
+      .catch(function () {
+        status.textContent = 'Sorry, your message didn’t send. Please check your connection and try again in a moment.';
+        status.className = 'form-status error';
+        button.disabled = false; button.textContent = 'Send message';
+      });
+  });
 })();
 </script>
 </body>
