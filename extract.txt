@@ -1,0 +1,226 @@
+[000101] Midnight's Cipher.
+
+Cool winds clawed at their exposed skin, a brief relief from the day's dying heat. As they lingered in the uneasy darkness, devoid of the typical haze of adverts or pallid street lighting, the wind stripped away any lingering comfort. The day's heat was soaked into the concrete below, radiating upward, but at this lofty height, the cold was an invasive presence, infiltrating the layers of their thick coats with an unyielding chill. Garro, his meagre clothing doing little to shield him, stood defiant against the elements, seemingly unaffected by the cruel bite of the night.
+
+The ragged mass of loose bolts and peeling sealant paint that was their delivering VTOL buzzed away into the obscurity of the starlit canvas. Mellie watched with a frown, her features creasing. It felt strangely  inadequate to be left in such a manner, yet Davie had been unequivocal in his instructions. It made sense, of course; a rattling, multi-coloured, grubby-looking VTOL loitering near a towering high-rise in the heart of Central was sure to attract unwelcome attention.
+
+Although it was approaching 1 a.m., the sky around them radiated with the glow from the city below. They found themselves amidst an unfamiliar spectacle, perched upon an architectural titan that soared with grotesque grandeur into the heavens, a colossal edifice rivalled only by a handful of similarly towering structures.
+
+The drone of the disappeared VTOL had vanished; they were left only with the relentless whistle of the wind and the vibrations of humming in the taut cables tethering several antennae, which buzzed in angry protest at their invasion of this quiet roof space.
+
+Lynx, driven by a natural curiosity, leaned over the edge, his gaze following the contours of the building as it descended. The structure wasn’t a sheer precipice; it protruded and curved outward as its face fell away. Far below, specks that glittered like diamonds moved about – affluent inhabitants of the Upper Central District, seemingly unaffected by the late hour.
+
+The Central District never rested; short of an apocalypse, nothing could halt its machinations. In every moment, every hour of every day, the interwoven corporations endlessly vied for control. Suits shook hands; buyouts, mergers and dissolutions blurring into a festering sickness of hyper-capitalism: an absolute power that scarred every facet of the city and reached far beyond its boundaries.
+
+Gerhardt, arguably the best dressed among them for this particular escapade, now wore a long ebony coat over a tightly fitting ensemble of tactical gear. His gaze was fixed northward, towards the opulent abodes of Upper Central, where the corporate wage slaves resided, blissfully ignorant of the world outside their gilded cages. The city disgusted him. People disgusted him.
+
+Choosing to disregard the sprawling cityscape, Mellie focused on the inky rooftop expanse and the colossal skylight beside them. The previous night, the plan had been discussed at great length and in excruciating detail; its logic was impeccable. The outer doors, accessible only via thebalcony, had dual-tier security, only one layer of which had been neutralised by Stepper, Davie's adept netrunner.
+
+The second layer was intrinsically connected to the building's centralised security grid; even as talented as Stepper was, there was no route for remote connection. It had been agreed by all who looked over the plans that this redundancy likely also applied to the balcony windows. There were numerous external access points, and the responsibility of dissecting the local network fell upon Lynx. Mellie's attention was fixed on the formidable panes of security glass beneath her feet.
+
+Mellie glanced toward Lynx; the reflected glimmer of the city’s distant neon was caught in his eyes. *This is no time for anyone to be goofing off*, the thought blinked in her mind. “Lynx,” she called out, her voice pushing away the distractions, gentle yet compelling in its urgency. Lynx's attention snapped to her, the vast cityscape fading from his immediate concern.
+
+“We're on the clock,” Mellie reminded him softly, yet with an underlying firmness that brooked no argument. “Time to show what your kit can do.”
+
+With a slight, chastened nod, Lynx straightened up. He then dropped his pack to the ground and pulled out a tangle of wires, along with his deck – immediately setting to work on locating a connection. Mellie’s gaze lingered on him for a moment longer, verifying that her message had been understood before she turned her attention back to the skylight.
+
+Having located a hardline connection point and haphazardly spliced a connection for himself, Lynx was immersed in the task of dissecting the digital entrails of the penthouse's security system. He tapped and pawed at the visual controls of his deck, its displays glowing and flickering in the  near-total darkness of the rooftop.
+
+Despite the intricate complexity of the system, he was making remarkably rapid progress, guided by Stepper’s instructions. Though he had never encountered such sophisticated architecture before, it felt strangely natural to him – as though he were solving a grand, intricate puzzle which wanted to be undone. With a casual flick of his thumb, he interrupted his focus. “Seems there’s some internal movement sensors. I got a Demon on it, though”. His report was more for himself than anyone present.
+
+Garro, silent until now and allowing the group, who all looked to be doing something important, to go about their business, looked quizzically at the younger man. “So, we good to get in then?”
+
+Gerhardt responded, pre-empting Lynx: “We should check the  place for physical triggers. A place like this has to have more than just some shitty software keeping it on lockdown.”
+
+They moved without a word, spreading out like trained predators testing the edges of unfamiliar ground.
+
+Gerhardt took point, his boots silent against the gravel-scattered rooftop. His cybernetic eye cycled through filters: heat, EMF, IR – casting faint data overlays across his vision. He passed the fire escape without touching it, gaze tracing the wiring that snaked out of the frame. Cold. Untouched. No recent flux. “Nothing,” he muttered.
+
+Mellie shifted a sling across her shoulder, the weight of the light machine gun a familiar presence against her side. The matte barrel peeked just past her hip, occasionally knocking against a vent or railing with a low metallic thunk that echoed more than she liked. It wasn’t the subtlest of tools – but subtlety wasn’t the point.
+
+She crouched near a cluster of vent stacks, one hand steadying the weapon while the other trailed along rust-flaked metal. She adjusted the sling again, trying not to let it catch as she reached under a panel lip. Just grit. No hidden tripwires.
+
+Even Lynx joined the sweep, leaving his deck where it glowed faintly against a vent casing. “System’s locked down tight,” he said as he stepped carefully toward a boxy antenna mount, ducking under its rigid frame. “If there’s a trip, it ain’t synced to the systems I just saw.” He squinted at the anchor bolts and scratched his fingers along the housing seam. “Nothing new. No tamper marks. Just grime.”
+
+The radio array pulsed quietly behind him, metal vibrating with a breeze that rolled through like breath from some enormous machine. Mellie stood, brushing her hands on her coat, and took one last glancing sweep of the perimeter. It all still felt too clean.
+
+Gerhardt too swept his gaze across the rooftop again. The cybernetic lens clicked softly as it recalibrated, pulling up layers – heat signatures, power bleed, surface anomalies. Nothing. Just the flicker of Lynx’s deck. “Looks clear,” he said flatly.
+
+Mellie didn’t look convinced. But she gave a single nod. “Alright – let’s get inside before the quiet gets loud.”
+
+Lynx’s attention shifted towards the skylight, breaking the monotony. “I think I can trip the latches there, probably on some kind of override,” he said, pointing down through the skylight at what appeared to be the electronic systems controlling the massive window.
+
+The chilling night air was becoming increasingly biting, amplifying Garro’s impatience. “Gotta be an easier way,” he protested; a questioning look flashed at Lynx, who was once again engrossed in the dazzle of lights flickering from his deck.
+
+“Garro,” Mellie interjected, her voice soothingly reassuring. “Just let the guy work. We’ll be in and out in no time. It looks quiet in there, and if all the security is down, we just have to walk in, grab the damn data-pack, call for Davie’s guy, and we’ll be in a bar drinking before the sun’s up.”
+
+“I got it,” Lynx's voice chimed in enthusiastically, answering an unasked question. “Well, I will have it. Just need to nudge the actuator.”
+
+Catching everyone off guard, Lynx pulled a miniature glass cutter micro-laser from his pack, setting it against the glass and linking it to his deck.
+
+“You had that all along?” Gerhardt queried, acknowledging the tiny device that now emitted a high-pitched whine as it meticulously cut a minuscule aperture in the formidable pane.
+
+Lynx beamed, pleased with the unexpected attention and relishing his sudden importance within the group. “I like to make sure I have the tools I need,” he declared, patting his well-travelled satchel. “Not all of us get everything handed on a plate; gotta make our own way.”
+
+Gerhardt's face subtly transformed, a flicker of something that, even in the low light, could almost be mistaken for admiration. It was a rare concession from the typically stoic man, silently acknowledging Lynx’s ingenuity as he adjusted his jacket collar against the penetrating wind. His gaze once again drifted northward towards the glittering facades of the glass-fronted apartments.
+
+As the window gave way with a soft, zipping sound, the pane shifted, the weight of the glass sinking suddenly into its frame. Lynx retracted his arm carefully through the slender opening he had created. “All we need to do now is lift this up...”
+
+Seizing the moment, Gerhardt began to assert control. “Each of us can take a corner and—”
+
+His words were abruptly interrupted – having restrained his patience until now, Garro had finally reached his threshold. Seizing the window pane, using the new aperture as an improvised handle, he lifted the entire pane from its frame, his wide shoulders giving little impression of effort or strain even as the surrounding metal edging protested with groans and creaks as it relinquished its hold.
+
+Mellie watched in awe, her eyes widening at the display of raw power. She had always known of Garro's potency, but witnessing him manhandle a pane of security glass that likely outweighed her by a substantial margin was a spectacle of unexpected magnitude.
+
+She raised her eyebrows in disbelief as Garro, with a sense of casual disdain, strode confidently to the edge of the rooftop. With a powerful swing of his arms, he launched the massive sheet of high-tensile security glass into the night sky, discarding it with as much effort and thought as one might dispose of an empty juice carton.
+
+Garro looked among the others as though the entire transaction was just a function of normalcy. “Can we get in there now?” he grumbled, his voice a low rumble that resonated with the empty night air.
+
+Gerhardt, maintaining his composed facade, held down the brief flicker of surprise that passed through his human eye. With a slight, almost sardonic nod, he gestured towards the newly-opened skylight. The corners of his mouth curled into what could nearly pass for a polite smile. “After you.”
+
+Garro descended the ropes first, his fall ending clumsily with a grunt as he hit the ground. Gerhardt followed closely, but as Garro scrambled to recover, he sent Gerhardt tumbling from the rope, hopping and skidding to catch his balance.
+
+Above them, Mellie now lay prone, perched at the edge, looking down into the open skylight, adjusting the bipod of her gun and pulling it into her shoulder. Even now, even here, the routine and motion blinked a brief memory across her mind’s eye of days spent with her father. She refocused and tweaked the small rear sight to better see the layout below her.
+
+Lynx, having waited for the mess of bodies to clear away from the drop ropes, carefully began his descent. Below him, Garro's massive frame stood ready. As Lynx descended, Garro reached up, one hand steadying on the rope, the other holding at Lynx’s back, guiding him down the last few feet with a strength that made the complex manoeuvre seem as effortless as stepping off a curb.
+
+The penthouse loomed like a darkened cathedral of excess, flaunting its wealth through vast, empty expanses and grandiose minimalism, all the more pronounced in the absence of light.
+
+The polished granite floors sheened, glinting in objection to the murky illumination that snuck in from the city outside, making them appear like an undisturbed lake. The smooth plaster walls were now a dappled shadow canvas that magnified a sense of isolation.
+
+Furniture pieces, each a statement of minimalist design, sat in the umbra like monoliths in a deserted landscape. Sculptural leather couches seemed even less inviting in the dark, their stark forms blending into the surrounding shadows, daring anyone to disrupt their untouched state.
+
+The room was portrayed like a vacuous art exhibit closed off for the night – impressive but entirely devoid of life or warmth, its severe angles and clean lines exaggerated by harsh shadows.
+
+Garro watched as Gerhardt stealthily began to navigate deeper into the wide, open-planned apartment, feeling awkward in his comparative bulk. Pausing momentarily, he registers for the first time that the condo is quite wonderful by reference to the life he knows. He followed, somewhat less stealthily, into its tenebrous space.
+
+Away from the glass wall of windows, a hallway led deeper into the dark space, its flanks perfunctory portals to the other parts of the penthouse.
+
+The trio, lacking a shared history, individually embarked on diverging paths in their initial search for the data-pack.
+
+Despite the slight shiver from the chill and the mounting tension, Mellie maintained a focused composure. From her commanding vantage point, she surveyed the penthouse, her eyes methodically tracing the central corridor's dark silhouette. Echoes of her father’s voice, a blend of memory and instruction, nudged her thoughts towards vigilance. *Always be aware, Mellie* —Her father’s voice whispered from memory as her finger found the trigger—*Good cover is more than just positioning – it’s being ready.* This mantra, resonating within her, steadied her resolve. This was her first real test beyond her training, each cautious sweep of her gaze a balance of unease and necessity.
+
+Lynx migrated to the northernmost corner of the penthouse into a vast, layered lounge. The space felt empty, a mockery of the effort presented by the artwork on the walls. The area was dominated by an expansive faux-stonework fireplace that served as a central visual element. He found the extravagance of the apartment excessive, but couldn’t help but imagine the luxury of inhabiting such a space.
+
+On his arm bracer—a more accessible interface to his deck while on the move—a crimson dot flashed with a deceptively playful rhythm, belying the urgency of its message. There was a system that wasn't offline, and his automated programs were having trouble isolating it. A more direct internal connection point was necessary.
+
+Garro had all but forgotten why they were even here. Instead, he had wandered into the kitchen, sampling various inviting items; one particularly savoury morsel caught his interest, and he pocketed the remainder for later.
+
+The lavish surroundings enveloped him in a fantasy, so grand was the contrast to the cold, unforgiving streets that served as his bed. Here, amidst luxury, he was a world away from the harsh reality of his homelessness, allowing himself to become momentarily enraptured by the illusion of grandeur and comfort.
+
+Gerhardt moved with deliberate intent, methodically dismissing sections of the penthouse. A trio of rooms along the southern perimeter caught his attention, compelling a more thorough inspection. His path was resolute, unswayed by the less focused actions of the others.
+
+It came as a shock to Gerhardt, finding himself dizzily looking at the impeccable ceiling, feeling the raw warmth of a fresh and deep bruise on his ribs, his ears muffled and ringing.
+
+Lynx’s voice punctured the silence, a note of alarm ringing clear. “Guys, watch out, I think—” His warning trailed off, cascading into an uncharacteristically shrill: “Oh shit!” as he abandoned his deck and dove for cover behind the lavish furnishings.
+
+A security droid had blindsided Gerhardt, its compact frame delivering pneumatic force that sent him sprawling down the corridor. Mellie saw his head snap against the polished granite floor, the thin rug offering no protection. Her grip tightened around her weapon, the room echoing with her anxious call. “Guys…?” But her voice drowned in the rising chaos.
+
+The droid, a stubby little can with thin pneumatic arms, rested on three small but robust wheels; one of its arms emitted the furious static of a taser extension; the other, a clasping array of inoffensive manipulators. It had no head to speak of, but the front sheet of its armour had a grouped array of sensors and was adorned by corporate logos, visually distinct enough that it could be called a face.
+
+A light on the droid blinked in a parody of authority as it issued a static-laced declaration: 《*Intruders must vacate premises. Authorities have been notified.*》 A shrill klaxon punctuated its words, reverberating through the hard surfaces of the penthouse on a loop of robotic diligence.
+
+Having been alerted by the commotion, Garro burst out of the bedroom door, brandishing an expensive-looking bottle of liquor.
+
+His face tightens in an instant of recognition. A deep-rooted instinct, born of ruthless training, propels him forward. He bellows and lunges at the robot, his massive hand arcing through the air, aiming to meet the metal menace in a clash of force.
+
+The machine's reflexes were quicker. It spins, deploying the taser, catching the man-mountain as he lands a crushing fist into the machine with such force that its rubber wheels screech in protest.
+
+A flash of electric blue and a puff of smoke sends Garro jerking into the opposite wall.
+
+Only the weight of the compact droid keeps it from toppling completely as it struggles to maintain balance.
+
+Seizing this moment, Gerhardt quickly recovers himself with a swift head shake and rolls into action, fluidly rising into a crouch.
+
+In a seamless motion, he draws his oversized hand-cannon of a pistol and, as the droid, still reeling from Garro's punch, bounces off the wall, Gerhardt fires. The penthouse echoes with the bone-jarring blast of his shot – his bullet tears through the droid’s armour with contemptuous ease, leaving a fierce, melon-sized cavity in the wall beyond.
+
+The melee of the brawl below had drawn events into Mellie’s view. The droid, still reeling from the dual assault, bounced from the wall, sensors flaring erratic red. Mellie’s sight tracked the movement. She pulled the trigger. The bucking and rattling of her gun chatters a cacophony into the echoed silence Gerhardt’s shot had left.
+
+Below her, there was a spray of oil and sparks as the humble security droid was rendered a masterpiece of devastation. It succumbed to the ferocious onslaught, relinquishing its form to a chaotic dance of disassembly.
+
+The ringing silence that followed reverberated in all of their ears. The lazy smoke of Mellie's gun barrel wisped away in the cold rooftop breeze.
+
+“Uhhh…” Lynx’s quiet voice attempted to gain purchase: “It didn’t really get a call out… So, we're okay, I think.”
+
+Slowly rising to his feet, Gerhardt let his cybernetic hand automatically re-holster his pistol. His still human arm cradled his ribs. “What the hell, you little shit! This place was supposed to be locked down.”
+
+Gurgling – Garro clawed himself upright, blinking; a near-inaudible hiss sounded as something automated within his back released chemicals that would displace pain.
+
+“You clear?” Mellie hollered into the skylight from above, her question hanging in the air.
+
+“Fuck me,” Gerhardt muttered, his voice layered with poorly hidden disdain. “Fucking Davie, fucking amateurs,” before raising his voice again: “Yeah, we're fucking clear.”
+
+“That wasn’t my fault,” Lynx defensively announced to the mess of noise everyone was making.
+
+Garro—with peculiar indifference to everything that had passed and that was now happening—picked up the bottle he’d dropped, raising it to show. “Look what I found,” he announced, casually strolling back to the lounge and delivering a dismissive kick to the smouldering remains of the droid.
+
+Turning to face Lynx fully, Gerhardt spat cold interrogation at him: “There’s no more of this shit, right?... Tell me this place is tight now. Please, for the love of sweet mercy, tell me you are actually in control of this.”
+
+“Chill, I got this. That was only internal. I managed to cut the receivers before its broadcast. But that wasn’t on me.” Lynx's report was rapid and defensive. “I’ll run some ICE, okay, but I already checked, there’s no signals in or out. No more surprises.” His eyes pleaded amnesty in the unlit gloom.
+
+“Right, no more fuck ups.” Gerhardt's voice was icy. He paused as if waiting for affirmation, then pre-empted any response. “Oh-kay?”
+
+Lynx nodded, his eyes widening in a mixture of confirmationand submission.
+
+“You,” Gerhardt points at Garro. “Stop jerking about; we should be gone already. Find the fucking data-pack.”
+
+Confused and somewhat aggrieved at being yelled at after potentially saving the guy's life, Garro shot a questioning glance towards Mellie’s distant silhouette for support. He turned to retrace his steps, rubbing a charred patch of his shirt, feeling the sting of raw, burned flesh beneath. Another soft hiss follows him as he pulls his mind into the present and wonders where to start looking for the thing.
+
+As Gerhardt passes Garro and the ruined droid, their positions exchange. He strides towards the door at the far end of the corridor, returning to his original destination.
+
+Twisting the handle, he feels its tight refusal; his cybernetic arm shifts, a panel sliding aside as built-in micro-manipulators extend like arachnid legs, skilfully picking the mechanical lock.
+
+As the door swung open, Gerhardt reflexively sucked in a sharp breath, barely containing his surprise, and exhaled slowly – “Lynx, I think I might need your help,” he called out, his gaze fixed unwaveringly on the sight before him.
+
+Before him lies a compact room, swamped and adorned in every inch by complex interlinked computer hardware, a stark contrast to the apartment's sparse luxury. It's a tightly packed hub of technology: banks of computer boxes stand like miniature towers in their own cityscape, lining the space with surfaces flickering rhythmically with lights. A persistent, quiet hum of machinery fills the air, resonating with the life of active circuits and cooling systems.
+
+The centre of the room is taken by an intricate yet obscurely control-void console, a small complement of dials and control switches, patiently ticking with relentless activity. Above him, and weaving across the floor, a network of wires and tubes crisscross like the exposed veins of a techno-organism, connecting each device in this
+confined technological maze.
+
+In this self-contained world, so detached from the larger context of the apartment, the augmented vision of his cybernetic implant dots with warnings of errors reporting unknown technology.
+
+“What?” Lynx's distant voice responded, weighted with an impatient rebuttal. “I got everything off; only meat-space locks left.”
+
+“No, I mean – come here.” Gerhardt huffed indignation from his nostrils.
+
+Lynx, initially hesitant, stepped towards the room. “The hell you want me to…”
+
+As he turned and crossed the threshold, Lynx stopped in his tracks; a moment of flooding recognition gave way, and understanding dawned on his face. “…Ah, I see.”
+
+“So, it’s got to be in here, right?” Gerhardt's cybernetic eye scans the room. Though his technology can't directly identify the data-pack, it quickly maps out the room's details, leaving his human faculties to fill in the gaps.
+
+Lynx, momentarily enraptured by the sight before him, exclaimed, “Whoa, that’s a Yantiri nine-kay.” At Gerhardt’s prompting, his focus quickly returned. “Uh, well, makes sense it’d be here. Look at this place…”
+
+“There, what’s that?” Gerhardt points cautiously at a panel of facias, all blinking except for one with a front-loading slot. *Certainly, a data-pack would fit there?* He thought, leaving the question to Lynx.
+
+Lynx, stepping over a tangle of wide-bore connecting cables, approached the bank of circuits and blinking lights. As he surveyed the room, a question formed: *There’s no screens or neural tabs anywhere. What the fuck is this?* It struck him as a peculiarity that a netrunner's nest like this would not have any interface at all.
+
+Hitting a panel release button – a few adjacent lights blink in acknowledgement. The panel with the front-loading slot slowly ejects a blank, shoebox-sized object. Save for its connectors, its black exterior is entirely nondescript.
+
+“Oh yeah,” Lynx’s voice rolled with excitement; Davie had been vague about the data-pack's appearance, but given their exhaustive search and the room's obvious significance, his years of tinkering with technology was telling him this must be their target. “This is it; we need to get the fuck out of here…”
+
+Gerhardt had already spun from the room and was yelling down the corridor: “Mellie, get on the com. We need a ride!”
+
+The penthouse seemed to hold its breath as Gerhardt’s cybernetic eye swept the room. He ignored the obvious destruction, focusing instead on subtler traces – anything that might tie the chaos directly to them. It would be an unavoidable fact that there had been vast, catastrophic damage caused here. There was still a chance to avoid it being pinned on them. Micro-lenses within the orb of his cyber-eye flicked through spectral bands: thermal, ultraviolet, EMF—ensuring nothing traceable remained.
+
+Garro’s heavy footsteps echoed dully through the space as he cast a final, longing look at the sprawling cityscape beyond the floor-to-ceiling windows. His grip tightened around the stolen bottle of liquor — a memento of their successful escapade — as he hauled his massive form up the drop rope.
+
+Mellie had already made swift work of packing her gun together, a makeshift carry-bundle of metal death. She turned to see the VTOL swinging in close, rotors churning the night air. *Maybe this really was easy money after all,* she thought, her mouth twitching into a smile.
+
+The biting wind greeted them, a begrudged familiar acquaintance shocking them back into reality.
+
+Lynx paused at the skylight’s edge, staring back at the ruined elegance below. He’d been part of something bigger – *and he hadn’t screwed it up.* For the first time, thinking of the people he was with, maybe that meant something.
+
+Mellie crossed to the rooftop's edge while the others boarded. Her eyes tracing the zig-zagged trails of streets below. The city teemed with life, its neon veins alive with energy. It was a picture of contradictions, both beautiful and perilous. And tonight, she was most literally on top of it all.
+
+Settling into a seat aboard the VTOL, Lynx clutched the data-pack tightly, beaming pride at his newfound companions. Mellie hauled herself in, dropping into her seat with controlled relief. Gerhardt stared out to the middle distance outside the transport, silent. Garro grinned back, raising his bottle in quiet triumph.
+
+“Time to go,” over the engine drone, her voice blending resolve and relief. “Let’s get out of here before someone starts asking where the skylight went.” She rapped a fist against the dividing panel; the engine hummed a promise of freedom.
+
+Lynx grinned at the narrowing slice of rooftop as Garro hefted the door shut behind them, catching his eye and returning a lazy smirk. The penthouse they had infiltrated disappeared from view, becoming another fleeting memory in the sprawling cityscape. With a surge of power, the VTOL lifted higher into the sky.
+
+As they soared above the neon-drenched streets, it felt like the city called to wrap them in its embrace. Mellie stared at the horizon; a medley of emotions swelled within her. They were outlaws, dissidents, a thorn to prick the corporate hide – her first notch in a fight only she could win.
+
+The penthouse blurred to become one among many in the spanning horizon of silhouette buildings. The nocturnal wind tousled their hair as they embarked on their journey; they vanished into the night, their fates now intertwined with the city below.
+
+It was an easy payday, a means to an end.
