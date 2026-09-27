@@ -200,6 +200,10 @@ blockquote footer { font-style: normal; font-size: 1rem; color: #8C9290; margin-
 button.btn { border: 0; cursor: pointer; justify-self: start; }
 button.btn:disabled { opacity: .6; cursor: progress; }
 .form-note { margin: 0; font-size: .95rem; color: #8C9290; }
+.privacy { font-size: .95rem; color: #8C9290; max-width: var(--measure); }
+.privacy summary { cursor: pointer; font-family: var(--display); font-weight: 500; font-size: 1.1rem; color: var(--fog); }
+.privacy summary:hover { color: var(--sodium); }
+.privacy p { margin: .75rem 0 0; }
 .form-status { margin: 0; }
 .form-status:empty { display: none; }
 .form-status.error { color: var(--sodium); }
@@ -319,7 +323,7 @@ button.btn:disabled { opacity: .6; cursor: progress; }
     <section id="contact">
       <div class="prose">
         <h2>Get in touch</h2>
-        <p>Readers, reviewers, press and event organisers are all welcome. Review copies are available in EPUB, and I'm happy to talk about interviews and appearances.</p>
+        <p>Readers, reviewers, press and event organisers are all welcome. Review copies are available in EPUB, and Richard is happy to talk about interviews and appearances.</p>
       </div>
 
       <!-- Without JavaScript this posts straight to Formspree, which shows its own thank-you page -->
@@ -361,10 +365,16 @@ button.btn:disabled { opacity: .6; cursor: progress; }
 
         <button type="submit" class="btn">Send message</button>
         <p class="form-status" id="form-status" role="alert"></p>
-        <p class="form-note">Your message goes directly to Richard. No mailing lists. No third-party sharing.</p>
+        <p class="form-note">Your details are used only to reply to your message. They are never added to a mailing list, shared for marketing or sold.</p>
+        <details class="privacy">
+          <summary>How your information is handled</summary>
+          <p>Richard Peall is responsible for the information you send through this form: your name, email address, reason for contact and message. It is used only to read and respond to your enquiry, on the basis of legitimate interests under UK GDPR.</p>
+          <p>Messages are delivered by Formspree, an external form service that processes them on Richard’s behalf and may store them outside the UK. See <a href="https://formspree.io/legal/privacy-policy" rel="noopener">Formspree’s privacy policy</a>. Your message is kept only as long as needed to deal with your enquiry and any follow-up, then deleted.</p>
+          <p>You can ask to see, correct or delete your information at any time by sending a request through this form. If you are unhappy with how it has been handled, you can complain to the <a href="https://ico.org.uk/make-a-complaint/" rel="noopener">Information Commissioner’s Office</a>.</p>
+        </details>
       </form>
 
-      <p class="form-success" id="form-success" tabindex="-1" hidden>Thank you — message received. I'll be in touch.</p>
+      <p class="form-success" id="form-success" tabindex="-1" hidden>Thank you — your message has been received. Richard will be in touch soon.</p>
     </section>
   </main>
 
