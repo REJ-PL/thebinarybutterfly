@@ -1,0 +1,28 @@
+/* Loaded by Goodreads inside its reviews widget (the widget's "stylesheet" setting),
+   so the reviews match the site. Selectors are deliberately generic because the
+   widget's own markup isn't documented; !important beats the widget's inline colours. */
+@import url("https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@500;800&family=Newsreader:ital,opsz,wght@0,6..72,400;1,6..72,400&display=swap");
+
+html, body {
+  background: #2A2F34 !important;
+  color: #C9CCC6 !important;
+  font-family: "Newsreader", Georgia, "Times New Roman", serif !important;
+  font-size: 16px !important;
+  line-height: 1.55 !important;
+}
+body { margin: 0 !important; padding: 12px 16px !important; }
+
+/* Strip the widget's own panel colours so everything sits on the dark background */
+body * { background-color: transparent !important; border-color: #3A4046 !important; font-family: inherit !important; }
+
+/* Body text; star and rating elements are left alone so they keep the widget's star colour */
+p, div, td, li, blockquote, span:not([class*="star"]):not([class*="rating"]) { color: #C9CCC6 !important; }
+
+h1, h2, h3, h4 {
+  font-family: "Big Shoulders Display", "Arial Narrow", sans-serif !important;
+  font-weight: 800 !important; color: #ECE8DF !important; line-height: 1.1 !important;
+}
+a, a:visited, a:active { color: #F0A23B !important; text-decoration: none !important; }
+a:hover { color: #6FC2B0 !important; text-decoration: underline !important; }
+img { max-width: 100% !important; height: auto !important; }
+hr { border: 0 !important; border-top: 1px solid #3A4046 !important; }
